@@ -1,0 +1,846 @@
+pageid,title,language,last_revision,redirects,length,image_number,wikilinks,categories,num_revisions,created
+2999,/GRASS SoC Ideas,en,2012-04-13,True,34,0,0,,1,2012-04-13
+3354,3D,en,2013-04-13,True,26,0,0,,1,2013-04-13
+4515,ADCIRC,en,2021-01-06,False,9109,0,1,"Geodata,Import,Pages using deprecated source tags",38,2019-07-17
+3652,AGU Fall Meeting 2014: GRASS related presentations and posters,en,2016-02-29,False,1790,0,0,"2014,Conferences,Workshops",6,2014-12-18
+4477,AGU Fall Meeting 2018,en,2019-03-03,False,17261,9,0,"2018,Conferences",16,2018-12-23
+2079,ASTER topography,en,2013-02-19,False,3451,0,0,Tutorial,27,2009-07-04
+1998,AVHRR,en,2012-12-20,False,7072,0,0,"Geodata,Image processing,Import",9,2009-03-13
+1543,About GRASS,en,2009-08-25,False,598,0,0,,47,2006-12-31
+1414,AddOns,en,2020-06-25,False,6360,0,0,"Community,Development,Documentation,Installation,Pages using deprecated source tags",74,2012-04-09
+2923,AddOns/GRASS6,en,2011-12-06,False,586,0,0,"Community,Development,Documentation,Installation",3,2011-12-06
+3152,AddOns/GRASS7,en,2012-10-11,True,28,0,0,,1,2012-10-11
+3173,AddOns/GRASS7/imagery,en,2012-10-16,True,39,0,1,,1,2012-10-16
+3212,AddOns/GRASS7/raster,en,2020-06-25,False,16557,0,1,"Community,Development,Documentation,Installation",71,2012-11-07
+3213,AddOns/GRASS7/vector,en,2020-06-25,False,7344,0,0,"Community,Development,Documentation,Installation",29,2012-11-07
+3156,AddOns/GRASS 4,en,2012-10-19,False,367,0,0,"Community,Development,Documentation,Installation",7,2012-10-11
+3153,AddOns/GRASS 5,en,2012-10-19,False,1126,0,0,"Community,Development,Documentation,Installation",10,2012-10-11
+3155,AddOns/GRASS 6,en,2018-08-25,False,98286,0,0,"Documentation,Installation",88,2012-10-11
+2922,AddOns/GRASS 7,en,2020-06-25,False,1026,0,0,"Community,Development,Documentation,Installation",26,2011-12-06
+3215,AddOns/GRASS 7/general,en,2020-06-25,False,2473,0,0,"Documentation,Installation",6,2012-11-07
+3161,AddOns/GRASS 7/imagery,en,2020-06-25,False,5071,0,1,"Community,Development,Documentation,Installation",25,2012-10-15
+3660,AddOns/GRASS 7/misc,en,2020-06-25,False,1095,0,0,Installation,5,2014-12-28
+3214,AddOns/GRASS 7/wxgui,en,2020-06-25,False,607,0,1,"Community,Development,Documentation,Installation",3,2012-11-07
+3174,AddOns / GRASS7 / imagery,en,2012-10-19,True,36,0,1,,2,2012-10-16
+3181,AddOns / GRASS 4,en,2012-10-19,True,28,0,1,,1,2012-10-19
+3180,AddOns / GRASS 5,en,2012-10-19,True,28,0,1,,1,2012-10-19
+3182,AddOns / GRASS 6,en,2012-10-19,True,28,0,1,,1,2012-10-19
+3178,AddOns / GRASS 7,en,2012-10-19,True,28,0,1,,1,2012-10-19
+3179,AddOns / GRASS 7 / imagery,en,2012-10-19,True,36,0,1,,1,2012-10-19
+1614,Add a FAQ,en,2008-07-03,False,489,0,0,FAQ,6,2007-05-05
+1388,Add point to Polygon,en,2013-12-31,False,395,0,0,"FAQ,Vector",9,2006-05-19
+2855,Add point to vector map at given position,en,2013-12-31,False,932,0,0,"FAQ,Pages using deprecated source tags,Templates,Vector,Videos",11,2011-09-24
+2000,Addons,en,2009-03-14,True,26,0,0,,1,2009-03-14
+2468,Aggregate Values,en,2010-08-26,True,37,0,0,,1,2010-08-26
+2154,Agriculture and HPC,en,2012-03-01,False,9995,0,0,Applications,9,2009-09-18
+4312,Analytical data visualizations at ICC 2017,en,2020-09-14,False,32565,9,0,"2017,Pages using deprecated source tags,Tutorial,Workshops",42,2017-06-26
+4385,Analytical data visualizations at ICC 2017/es,en,2018-12-04,False,36284,0,2,"2017,Languages/es,Pages using deprecated source tags,Tutorial,Workshops",2,2017-08-27
+3489,Android,en,2014-08-28,False,8357,1,0,Hardware,21,2013-10-25
+1837,Aplikasi,en,2008-07-08,True,29,0,0,,1,2008-07-08
+1714,Applications,en,2023-02-21,False,1079,0,0,Applications,30,2008-02-05
+1789,Applications/id,en,2010-04-09,False,883,0,0,"Applications,Languages/id",6,2008-05-31
+2078,Applications/sr,en,2010-04-09,False,1555,0,1,"Applications,Languages/sr",2,2009-07-04
+2312,Archaeology,en,2009-11-01,True,24,0,1,,1,2009-11-01
+1783,Archeology,en,2018-12-04,False,3728,0,0,"Applications,Documentation",29,2008-05-21
+1790,Archeology/id,en,2008-07-08,False,444,0,0,Languages/id,3,2008-05-31
+1477,AreaFillPatterns,en,2009-06-10,False,3042,1,0,Ps.map,36,2006-06-22
+1836,Arkeologi,en,2008-07-08,True,27,0,0,,1,2008-07-08
+2022,Atmospheric correction,en,2020-04-08,False,17106,0,0,Tutorial,82,2009-04-11
+4128,Atmospheric correction/es,en,2016-07-28,False,17288,0,1,"Pages with math errors,Pages with math render errors,Tutorial",4,2016-07-28
+3195,Atmospheric correction/pt-br,en,2012-10-21,True,37,0,1,,1,2012-10-21
+3059,Average Line,en,2018-12-04,False,804,1,0,"FAQ,Vector",6,2012-06-15
+1759,BSB data,en,2012-12-20,False,1176,0,0,"Geodata,Import",9,2008-04-17
+3175,BigTIFF support,en,2013-01-01,False,447,0,0,"FAQ,GDAL,Import,Massive data analysis",3,2012-10-16
+1891,Blue Marble,en,2020-12-31,False,6193,0,0,"Geodata,Import",37,2008-09-30
+1580,Bug tracking,en,2020-04-05,False,6064,0,0,"Community,Development",28,2007-02-12
+2009,Bugs,en,2009-04-02,True,29,0,0,,1,2009-04-02
+4275,Build SQLite extension on Linux,en,2018-11-06,False,2320,0,1,"FAQ,Pages using deprecated source tags,Vector",3,2017-03-12
+3659,Build SQLite extension on windows,en,2017-03-12,False,1714,0,1,"FAQ,Vector",13,2014-12-28
+3816,Bulk rename maps,en,2015-08-15,False,385,0,0,"FAQ,Vector",1,2015-08-15
+2470,CMS,en,2010-09-03,True,22,0,1,,1,2010-09-03
+4487,CMS migration plan 2019,en,2019-01-20,True,48,0,1,,2,2019-01-20
+2090,CORINE Land Cover,en,2019-07-02,False,11711,2,0,"Geodata,Import",22,2009-08-10
+4593,CUSP Coastline,en,2020-12-01,False,3861,0,2,"Geodata,Import,Pages using deprecated source tags",16,2020-11-12
+1693,Cairo driver,en,2013-02-05,False,2694,1,0,"Development,Documentation,OutDated",18,2007-11-22
+1675,Captcha help,en,2010-08-02,False,1001,0,0,Community,2,2007-10-06
+3052,Cartography,en,2018-12-04,False,2398,5,3,Applications,17,2012-06-04
+3127,Case studies,en,2015-12-07,False,1318,0,2,Applications,12,2012-08-31
+3242,Case studies/GlobalChangeBiology,en,2012-12-06,True,33,0,1,,1,2012-12-06
+1387,Changing Region,en,2006-06-16,False,548,0,0,FAQ,2,2006-05-19
+4136,Changing Region/es,en,2016-08-03,False,621,0,0,"FAQ,Languages/es",1,2016-08-03
+1867,Changing Region/id,en,2008-08-01,False,766,0,0,"FAQ/id,Languages/id",4,2008-08-01
+3868,Christmas GRASS GIS potential contributors meeting in Raleigh,en,2019-12-20,False,5003,0,0,"2015,Code Sprint,Workshops",21,2015-12-19
+1446,Citations for specific modules,en,2013-01-01,False,4251,0,0,"Citations,Modules",3,2006-05-26
+2138,Citing GRASS,en,2022-12-12,False,92,0,0,FAQ,3,2009-08-31
+2636,Citing GRASS/pl,en,2011-01-30,False,190,0,0,"FAQ,Languages/pl",1,2011-01-30
+2100,Color tables,en,2020-08-10,False,6404,10,0,VTK,47,2009-08-26
+1567,Common Tasks,en,2014-11-05,False,3686,0,0,"Documentation,FAQ",24,2006-12-12
+1894,Common Tasks/id,en,2008-10-04,False,3448,0,0,"Documentation,FAQ,Languages/id",10,2008-10-04
+3891,Community Sprint Funding,en,2016-02-19,False,2348,0,2,"2016,Code Sprint,Workshops",15,2016-01-19
+1398,Compile and Install,en,2023-01-16,False,62284,0,0,"Development,Documentation,Installation,MovedToTrac,Pages using deprecated source tags",57,2018-05-03
+1813,Compile and Install/id,en,2012-03-11,False,18211,0,0,"Documentation,Installation,Languages/id",26,2008-07-04
+3432,Compile and Install/ko,en,2013-07-18,False,44001,0,7,"Development,Documentation,Installation,Pages using deprecated source tags",2,2013-07-18
+2070,Compile and Install Ubuntu,en,2023-01-10,False,37445,0,0,"Compilation,FAQ,Installation,Pages using deprecated enclose attributes,Pages using deprecated source tags,Ubuntu",62,2015-01-03
+1404,Compile and install GDAL-GRASS plugin,en,2022-04-29,False,4851,0,0,"Documentation,Installation,QGIS",40,2006-05-19
+2031,Compile and install GRASS and QGIS with GDAL/OGR Plugin,en,2009-04-28,True,51,0,0,,1,2009-04-28
+1935,Compile and install GRASS and QGIS with GDAL/OGR Plugin/id,en,2009-01-17,False,3754,0,0,"Documentation,Installation,Languages/id",7,2009-01-17
+1591,Compiling on MacOSX,en,2020-05-14,False,9250,0,0,"Development,Documentation,Installation",9,2007-03-04
+1850,Compiling on MacOSX/id,en,2012-03-11,False,2643,0,0,Languages/id,3,2008-07-09
+4570,Compiling on MacOSX using Anaconda,en,2020-06-05,True,47,0,1,,1,2020-06-05
+4303,Compiling on MacOSX using Fink,en,2017-05-01,False,1612,0,0,"Development,Documentation,Installation",1,2017-05-01
+4569,Compiling on MacOSX using homebrew,en,2020-06-05,True,47,0,1,,1,2020-06-05
+4565,Compiling on macOS using Anaconda,en,2020-07-23,False,7940,0,0,Installation,10,2020-06-02
+3809,Compiling on macOS using Homebrew,en,2020-06-05,False,2332,0,0,"Development,Documentation,Installation",22,2015-07-28
+4568,Compiling on macOS using MacPorts,en,2023-03-22,False,3092,0,0,"Development,Documentation,Installation",5,2020-06-05
+2902,Computational region,en,2016-11-29,False,7765,0,0,"Documentation,FAQ,Pages using deprecated source tags,Tutorial",15,2011-10-23
+4123,Computational region/es,en,2016-07-22,False,3750,0,1,"Languages/es,Pages using deprecated source tags,Tutorial",1,2016-07-22
+4151,Computational region/pl,en,2016-08-22,False,3552,0,1,"Documentation,FAQ,Languages/pl,Pages using deprecated source tags,Tutorial",1,2016-08-22
+1612,Contact Databases,en,2023-01-26,False,1403,0,0,Promotion,21,2007-04-20
+2375,Contour lines to DEM,en,2015-06-03,False,12429,10,0,"Documentation,FAQ,Interpolation,Pages using deprecated source tags,Vector",63,2010-02-27
+3311,Convert all GRASS 6 vector maps to GRASS 7,en,2018-12-04,False,1941,0,0,"FAQ,Pages using deprecated source tags,Vector",10,2013-02-08
+3612,Convert areas to lines,en,2014-08-14,False,386,0,3,"FAQ,Vector",1,2014-08-14
+1637,Convert degree,en,2015-12-01,False,1509,0,0,FAQ,4,2007-07-21
+2929,Convert lines to areas,en,2011-12-29,False,558,0,2,"FAQ,Vector",2,2011-12-29
+2449,Convert points to lines,en,2015-01-09,False,2128,0,3,"Pages using deprecated source tags,Vector",9,2010-06-30
+1502,Convert vector types,en,2011-12-29,False,407,1,0,"FAQ,Vector",9,2006-08-10
+2620,Converting Bash scripts to Python,en,2013-02-02,False,1149,0,1,"Development,Linking to other languages,Python,Scripting",10,2011-01-17
+1431,Core features,en,2022-10-14,False,855,0,0,Promotion,17,2006-05-19
+2077,Core features/sr,en,2009-07-04,False,1055,0,0,"Languages/sr,Promotion",2,2009-07-04
+3193,Correção atmosférica,en,2013-11-28,False,9003,0,1,"Processamento de imagens,Translating into Português do Brasil,Tutoriais",15,2012-10-20
+3247,Cost surfaces,en,2018-12-04,False,2620,0,0,FAQ,4,2012-12-28
+1941,Count points in polygon,en,2015-04-19,False,2779,0,0,"FAQ,HowTo,Vector",9,2009-01-26
+4138,Count points in polygon/es,en,2016-08-03,False,2871,0,0,"FAQ,HowTo,Languages/es,Vector",1,2016-08-03
+2404,Count points in raster cells,en,2013-12-31,False,1336,0,0,"FAQ,Vector",3,2010-04-09
+1631,Country Data Processing,en,2013-02-01,False,5580,0,0,Documentation,37,2007-07-07
+1873,Create concave hull,en,2015-06-03,False,1322,1,0,FAQ,8,2008-08-10
+3916,Creating animation from FUTURES output in GRASS GIS,en,2016-03-30,False,6000,8,2,"FUTURES,Tutorial,Urban",8,2016-02-12
+2027,Creating watersheds,en,2021-04-05,False,10742,0,1,"Documentation,FAQ,Hydrology,Pages using deprecated source tags",37,2009-04-22
+2865,Crop a shapefile during import,en,2013-12-31,False,430,0,1,"Import,Vector",4,2011-09-27
+4122,Crop a shapefile during import/es,en,2016-07-22,False,501,0,1,Vector,1,2016-07-22
+1635,Cropping maps,en,2017-09-26,False,2677,0,2,FAQ,7,2007-07-18
+4121,Cropping maps/es,en,2017-06-19,False,2117,0,2,"FAQ,Languages/es",2,2016-07-22
+2903,Current region,en,2011-10-23,True,34,0,0,,1,2011-10-23
+2959,Cygwin,en,2012-03-30,False,2411,2,0,WinGRASS,5,2012-03-14
+1402,Cygwin Packages,en,2012-03-14,False,2125,0,0,"FAQ,WinGRASS",4,2006-05-19
+3628,DEM to contour lines,en,2014-09-02,False,979,1,1,"FAQ,Pages using deprecated source tags,Vector",1,2014-09-02
+4135,DEM to contour lines/es,en,2016-08-03,False,1111,1,1,"Documentation,FAQ,Languages/es,Pages using deprecated source tags,Vector",2,2016-08-03
+1680,Data formats,en,2018-12-04,False,3961,0,0,"Documentation,Import,Pages using deprecated source tags",38,2007-10-15
+1729,Dbase,en,2008-02-25,True,25,0,0,,1,2008-02-25
+1728,Dbase (DBF),en,2008-02-26,False,3068,0,0,FAQ,8,2008-02-25
+3295,Debug,en,2013-01-27,True,29,0,1,,1,2013-01-27
+1430,Description of the project,en,2022-10-14,False,439,0,0,"Branding,Promotion",3,2006-05-19
+1422,Development,en,2022-02-17,False,14161,0,0,Development,51,2008-02-22
+1515,Development GEM,en,2014-01-29,False,2657,0,0,"Development,MoveToTrac,OldGRASSVersion",6,2006-08-22
+1492,Development Specs,en,2009-08-02,False,38,0,0,MovedToTrac,45,2007-08-08
+2148,Digitalize,en,2009-09-16,True,22,0,0,,1,2009-09-16
+2145,Digitize,en,2013-12-31,False,445,0,0,"FAQ,Vector",6,2009-09-15
+1957,Digitizing Area Features,en,2016-02-01,False,10181,2,0,"FAQ,OutDated,Pages using deprecated source tags,Vector",28,2009-02-14
+1542,Dissolve polygons,en,2013-04-10,False,545,0,0,"FAQ,Vector",4,2006-11-19
+1420,Documents,en,2006-05-26,True,29,0,0,,9,2006-05-19
+3381,Documents/ko,en,2013-05-24,False,4057,0,3,"교습,문서",4,2013-05-24
+1804,Downscaling raster maps,en,2014-09-06,False,662,0,0,"FAQ,Raster",4,2008-06-20
+4619,ERROR: wxGUI requires wxPython,en,2021-05-06,False,1342,0,0,FAQ,2,2021-05-06
+2055,Earth at night,en,2011-09-15,False,3753,0,0,"Documentation,Tutorial",20,2009-05-25
+2637,Earth at night/pl,en,2011-01-31,False,3858,0,0,"Documentation,Languages/pl,Tutorial",1,2011-01-31
+1859,Eclipse,en,2015-08-31,False,4912,0,2,"Development,Documentation",7,2008-07-21
+3826,Eclipse.bat,en,2015-09-01,False,2718,0,0,"Development,Documentation",5,2015-08-30
+2040,Energy calculations,en,2018-05-29,False,6679,0,1,"Applications,Documentation",10,2009-05-08
+2042,Environmental Protection and Monitoring,en,2016-10-13,False,880,1,1,"Applications,Documentation",5,2009-05-09
+1381,Error Region,en,2007-02-10,False,1048,0,0,FAQ,3,2006-05-19
+2487,Error incompatible library version for module,en,2011-05-21,False,2453,0,0,FAQ,4,2010-10-07
+2086,European datasets,en,2009-08-10,False,977,0,0,Geodata,16,2009-07-25
+1741,Export for GpsDrive,en,2008-11-03,False,7709,0,0,,31,2008-03-11
+1681,Extension development,en,2014-01-29,False,4141,0,0,"Development,MoveToTrac",5,2007-10-20
+2748,Extracting coordinates of points and writing them to the attribute table,en,2016-08-05,False,1506,0,0,"FAQ,HowTo,Import,Pages using deprecated source tags",11,2011-03-26
+4143,Extracting coordinates of points and writing them to the attribute table/es,en,2016-08-05,False,1924,0,1,"Languages/es,Pages using deprecated source tags",2,2016-08-05
+2899,Extrude 2D polygons to 3D,en,2013-12-14,False,3435,2,0,"FAQ,Pages using deprecated source tags",14,2011-10-22
+2342,FAQ,en,2010-01-13,True,27,0,0,,1,2010-01-13
+1370,FOSS4G2006: GRASS related workshops and presentations,en,2016-02-29,False,8345,0,0,"2006,Conferences,Workshops",12,2006-09-08
+1653,FOSS4G2007 IntegrationShowcase,en,2007-08-23,False,1668,8,0,,5,2007-08-23
+3644,FOSS4G2014: GRASS related workshops and presentations,en,2016-02-29,False,3038,0,1,"Conferences,Workshops",11,2014-11-10
+3810,FOSS4G Europe 2015: GRASS related workshops and presentations,en,2016-02-29,False,2913,0,2,"2015,Conferences,Workshops",5,2015-08-06
+4310,FOSS4G Europe 2017,en,2017-06-12,False,2036,2,0,"2017,Code Sprint,Conferences,Workshops",2,2017-06-12
+3947,FOSS4G NA 2016: GRASS related workshops and presentations,en,2016-05-09,False,11736,5,0,"2016,Conferences,Workshops",10,2016-02-29
+4496,FUTURES land-change modeling for evaluating innovative conservation scenarios,en,2022-03-30,False,54132,3,5,"FUTURES,Pages using deprecated source tags,Tutorial,Urban",47,2019-03-14
+3921,FUTURES tutorial,en,2018-04-24,False,23282,0,0,"FUTURES,Pages using deprecated source tags,Tutorial,Urban",60,2016-02-16
+1484,Faq,en,2006-07-04,True,26,0,0,FAQ,1,2006-07-04
+1866,Faq/id,en,2008-08-01,False,600,0,0,"FAQ/id,Languages/id",3,2008-08-01
+3529,Find largest patch in raster map,en,2014-01-02,False,2225,0,0,"FAQ,Pages using deprecated source tags,Raster",3,2014-01-02
+1616,Find multiple points in same position,en,2013-06-16,False,2097,0,0,"FAQ,Pages using deprecated source tags,Vector",3,2007-05-18
+3471,Fourier transforms for multitemporal analysis,en,2014-08-26,False,4082,0,0,"Documentation,Image processing,Temporal",7,2013-09-03
+1624,Frequently Asked Questions,en,2007-05-29,True,26,0,0,FAQ,2,2007-05-29
+4333,From GRASS GIS novice to power user (workshop at FOSS4G Boston 2017),en,2021-01-31,False,41753,10,7,"2017,Pages using deprecated source tags,Tutorial,Workshops",86,2017-07-18
+1649,GAV live CD,en,2018-09-02,False,1902,0,0,"Historic,Promotion",3,2007-08-13
+2444,GDAL,en,2013-08-02,False,682,0,0,"GDAL,Import",6,2010-06-17
+1692,GDAL related problems,en,2013-02-05,False,740,0,0,FAQ,4,2007-11-21
+1409,GIS Concepts,en,2019-12-30,False,8772,0,0,"Community,Raster,Vector",75,2006-05-19
+1951,GIS manager,en,2013-02-10,False,1191,0,0,"FAQ,OldGRASSVersion",4,2009-02-11
+1475,GIS to GRASS command translation,en,2015-08-22,True,40,0,0,,26,2006-06-19
+1902,GMT,en,2009-09-17,True,27,0,0,,2,2008-10-25
+1636,GNU text tools,en,2009-05-12,False,5199,0,0,"Documentation,FAQ",2,2007-07-21
+1862,GPS,en,2012-12-20,False,3161,0,0,"Documentation,Import",22,2008-07-30
+2072,GPS/id,en,2009-06-23,False,1096,0,0,"Documentation,Languages/id",4,2009-06-23
+2392,GPU,en,2016-04-04,False,4296,0,0,"Hardware,Parallelization",38,2010-03-15
+2475,GRASS-QGIS relevant module list,en,2015-08-19,False,28837,0,0,"Development,QGIS",87,2010-09-23
+1,GRASS-Wiki,en,2023-01-24,False,5565,3,0,,79,2012-12-11
+4488,GRASS-Wiki/CMS migration plan 2018,en,2019-01-20,True,37,0,1,,1,2019-01-20
+4489,GRASS-Wiki/CMS migration plan 2019,en,2019-01-20,True,41,0,1,,1,2019-01-20
+1829,GRASS-Wiki/cs,en,2013-11-12,False,4792,3,0,Languages/cs,31,2008-07-07
+1839,GRASS-Wiki/de,en,2017-08-02,False,5144,2,0,Languages/de,14,2008-07-08
+4113,GRASS-Wiki/es,en,2017-08-02,False,5926,0,3,Languages/es,6,2016-07-21
+1791,GRASS-Wiki/id,en,2010-09-15,False,4571,2,0,Languages/id,32,2008-05-31
+1846,GRASS-Wiki/it,en,2017-08-02,False,5657,3,0,Languages/it,21,2008-07-08
+4304,GRASS-Wiki/ja,en,2017-05-01,False,5923,0,1,Languages/ja,1,2017-05-01
+3379,GRASS-Wiki/ko,en,2014-10-29,False,5779,0,0,,11,2013-05-21
+1898,GRASS-Wiki/pl,en,2017-08-02,False,6302,3,0,"Languages/pl,Translating into Polish",20,2008-10-20
+1946,GRASS-Wiki/ro,en,2010-09-15,False,4838,2,0,,23,2009-02-06
+2075,GRASS-Wiki/sr,en,2015-09-07,False,7431,2,0,Languages/sr,17,2009-07-03
+2573,GRASS-Wiki/sv,en,2011-04-28,False,5183,0,0,Languages/sv,4,2010-11-11
+1397,GRASS5x and 57,en,2013-02-05,False,271,0,0,"FAQ,OldGRASSVersion",3,2006-05-19
+2920,GRASS + SAGA,en,2011-12-04,True,28,0,0,,1,2011-12-04
+1499,GRASS 6.1 Feature Plan,en,2013-02-07,False,1143,0,0,"Development,Historic,Release Roadmap",10,2006-08-05
+1500,GRASS 6.2 Feature Plan,en,2013-02-07,False,14581,0,1,"Development,Historic,Release Roadmap",19,2007-10-22
+1496,GRASS 6.3 Feature Plan,en,2014-01-29,False,12605,0,1,"Development,Historic,MoveToTrac,Release Roadmap",26,2007-12-17
+1922,GRASS 6.4 Feature Plan,en,2014-06-12,False,60,0,0,Release Roadmap,41,2008-11-27
+2327,GRASS 6 Terminology,en,2016-01-31,False,4324,1,2,"Documentation,FAQ",22,2010-01-05
+1406,GRASS 6 Tutorial,en,2013-07-30,False,5797,0,0,"Documentation,Tutorial",10,2013-07-29
+3451,GRASS 6 Tutorial/Displaying spatial data,en,2013-08-08,False,2574,0,0,"HowTo,Tutorial",20,2013-07-30
+3448,GRASS 6 Tutorial/Getting Started,en,2013-08-09,False,1733,1,0,Tutorial,2,2013-07-29
+4139,GRASS 6 Tutorial/Raster data/es,en,2016-08-04,False,1418,0,0,"Languages/es,Tutorial",1,2016-08-04
+3361,GRASS 6 Tutorial/Raster data management,en,2013-08-09,False,1319,1,0,Tutorial,8,2013-04-25
+3211,GRASS 6 Tutorial/Vector data management,en,2014-03-24,False,7793,7,2,Tutorial,35,2012-11-07
+4140,GRASS 6 Tutorial/Vector data management/es,en,2016-08-04,False,8218,2,3,"Languages/es,Tutorial",1,2016-08-04
+3439,GRASS 6 Tutorial/Vector spatial analysis,en,2013-08-09,False,2130,6,0,Tutorial,17,2013-07-26
+1843,GRASS 6 Tutorial/de,en,2012-11-29,False,5574,0,0,"Documentation,Languages/de,Translating into German,Tutorial",24,2008-07-08
+1860,GRASS 6 Tutorial/id,en,2011-12-04,False,5033,0,0,"Languages/id,Tutorial",14,2008-07-25
+3375,GRASS 6 Tutorial/ko,en,2013-06-11,False,4068,0,5,,41,2013-05-20
+2574,GRASS 6 Tutorial/sv,en,2011-12-04,False,4901,0,0,"Documentation,Languages/sv,Tutorial",2,2010-11-12
+3369,GRASS 7 Tech-Preview,en,2013-05-13,False,35,0,0,MovedToTrac,4,2013-05-13
+1771,GRASS 7 Terminology,en,2014-03-24,False,6135,1,0,"Development,MoveToTrac",29,2008-05-01
+1488,GRASS 7 ideas collection,en,2019-05-23,False,28408,1,0,"Development,MoveToTrac,Release Roadmap",50,2011-08-02
+3668,GRASS APIs,en,2015-01-21,True,28,0,1,,1,2015-01-21
+3176,GRASS AddOns,en,2018-10-29,True,28,0,1,,4,2012-10-19
+1856,GRASS AddOns/id,en,2016-06-16,False,39383,0,0,"Installation,Languages/id,Translating into Bahasa Indonesia",23,2008-07-15
+2426,GRASS AddOns/pl,en,2016-06-16,False,76880,0,4,Translating into Polish,56,2010-05-18
+2314,GRASS Art Gallery,en,2015-12-28,False,6869,10,0,"Community,Promotion",4,2009-11-15
+3036,GRASS Attributes,en,2012-05-25,True,37,0,1,,1,2012-05-25
+1493,GRASS Blogger,en,2021-08-23,False,2239,0,0,Community,41,2006-07-26
+1851,GRASS Blogger/id,en,2008-07-09,False,1346,0,0,Community,1,2008-07-09
+1438,GRASS Citation Repository,en,2022-12-12,False,5701,0,0,"Documentation,FAQ",38,2006-05-25
+1368,GRASS Community,en,2018-09-01,False,4786,0,0,Community,58,2006-05-18
+1792,GRASS Community/id,en,2008-07-08,False,4337,0,0,"Community,Languages/id",5,2008-06-02
+3376,GRASS Community/ko,en,2013-05-20,False,4668,0,0,Community,19,2013-05-20
+2137,GRASS Community/sr,en,2009-08-26,False,5946,0,0,Community,1,2009-08-26
+4658,GRASS Community Meeting Prague 2023,en,2023-05-10,False,13371,2,9,"2023,Code Sprint,Workshops",87,2023-03-11
+2705,GRASS Community Sprint 2011,en,2011-02-22,True,48,0,0,,1,2011-02-22
+3849,GRASS Community Sprint Bonn 2016,en,2017-09-20,False,10340,3,0,Workshops,81,2015-11-03
+4393,GRASS Community Sprint Bonn 2018,en,2017-10-21,True,50,0,0,,1,2017-10-21
+3746,GRASS Community Sprint Como 2015,en,2016-02-19,False,8481,1,0,"2015,Code Sprint,Workshops",42,2015-03-13
+3143,GRASS Community Sprint Genova 2013,en,2016-02-19,False,13079,3,0,"2013,Code Sprint,Workshops",95,2012-09-25
+4173,GRASS Community Sprint Genova 2017,en,2017-02-10,False,5999,0,0,"2017,Code Sprint,Workshops",21,2016-10-19
+3902,GRASS Community Sprint Paris 2016,en,2016-02-26,False,3495,1,0,"2016,Code Sprint,Workshops",12,2016-02-11
+4330,GRASS Community Sprint Paris 2017,en,2017-07-24,False,5980,0,6,"2017,Code Sprint,Workshops",16,2017-06-28
+3629,GRASS Community Sprint Portland 2014,en,2016-02-19,False,12013,0,0,Workshops,40,2014-09-04
+2696,GRASS Community Sprint Prague 2011,en,2016-02-19,False,18460,1,0,"2011,Code Sprint,Workshops",54,2011-05-21
+2955,GRASS Community Sprint Prague 2012,en,2016-02-19,False,16754,0,0,"Code Sprint,Workshops",22,2012-05-27
+3343,GRASS Community Sprint Prague 2013,en,2016-02-19,False,16875,0,0,"2013,Code Sprint,Workshops",12,2013-07-18
+4660,GRASS Community Sprint Prague 2023,en,2023-03-17,True,49,0,1,,1,2023-03-17
+3539,GRASS Community Sprint Vienna 2014,en,2016-02-19,False,10113,0,0,"2014,Code Sprint,Workshops",57,2014-01-16
+1411,GRASS Debugging,en,2022-08-27,False,24772,7,0,"Development,Pages using deprecated source tags",50,2011-04-12
+1565,GRASS Digitizing tool,en,2012-10-08,False,988,2,0,"Development,Vector",32,2006-12-07
+1407,GRASS Documents,en,2019-05-23,False,3670,0,0,"Documentation,Tutorial",86,2006-05-19
+1795,GRASS Documents/id,en,2008-10-02,False,2950,0,0,Languages/id,15,2008-06-04
+3385,GRASS Documents/ko,en,2013-05-26,False,3672,0,0,,3,2013-05-26
+2085,GRASS Documents/sr,en,2009-09-17,False,5163,0,0,"Documentation,Languages/sr",4,2009-07-16
+1833,GRASS Documents - Bahasa Indonesia,en,2008-07-08,True,32,0,0,,1,2008-07-08
+1529,GRASS Education (Free GIS education),en,2017-10-22,False,3732,0,0,"Documentation,Workshops",41,2006-10-18
+1913,GRASS Education (Free GIS education)/id,en,2010-06-27,False,3918,0,0,"Languages/id,Translating into Bahasa Indonesia",5,2008-11-12
+1376,GRASS FAQ,en,2016-10-02,False,4646,0,0,FAQ,23,2006-05-19
+4389,GRASS GCI Ideas 2017,en,2018-01-18,False,6427,3,2,"Community,Development",72,2017-10-02
+4461,GRASS GCI Ideas 2018,en,2018-09-16,False,3982,3,2,"Community,Development",6,2018-09-15
+3667,GRASS GIS APIs,en,2020-08-31,False,22393,1,5,,47,2015-01-19
+4580,GRASS GIS Birthday,en,2023-04-27,False,1797,8,1,Community,18,2020-07-30
+3925,GRASS GIS Budget 2014,en,2016-02-19,False,1210,0,0,"2014,Budget",2,2016-02-19
+3931,GRASS GIS Budget 2015,en,2016-02-20,False,1171,0,0,"2015,Budget",2,2016-02-19
+3932,GRASS GIS Budget 2016,en,2017-01-29,False,1538,0,0,"2016,Budget",9,2016-02-19
+4253,GRASS GIS Budget 2017,en,2017-11-26,False,1711,0,0,"2017,Budget",11,2017-01-29
+4394,GRASS GIS Budget 2018,en,2019-01-14,False,2584,0,0,"2018,Budget",30,2017-10-21
+4472,GRASS GIS Budget 2019,en,2020-02-18,False,3514,0,0,"2019,Budget",28,2018-12-18
+4526,GRASS GIS Budget 2020,en,2021-01-13,False,5517,0,4,"2020,Budget",18,2019-12-01
+4605,GRASS GIS Budget 2021,en,2021-11-12,False,4542,0,2,"2021,Budget",10,2020-12-29
+4634,GRASS GIS Budget 2022,en,2022-01-17,False,4478,0,3,"2022,Budget",21,2022-01-07
+4654,GRASS GIS Budget 2023,en,2023-03-22,False,4490,0,0,"2023,Budget",18,2023-01-08
+4392,GRASS GIS Community Sprint Autumn 2017,en,2018-01-02,False,6172,0,0,"2017,Code Sprint,Workshops",34,2017-10-17
+4495,GRASS GIS Community Sprint Berlin 2019,en,2019-05-23,False,10099,0,0,"Code Sprint,Workshops",63,2019-03-07
+4326,GRASS GIS Community Sprint Bonn 2018,en,2018-04-02,False,9786,7,0,"2018,Code Sprint,Workshops",52,2017-06-23
+4524,GRASS GIS Community Sprint Prague 2019,en,2020-11-20,False,8959,0,0,"2019,Code Sprint,Workshops",48,2019-11-07
+4661,GRASS GIS Community Sprint Prague 2023,en,2023-03-27,True,49,0,1,,1,2023-03-27
+4067,GRASS GIS ISPRS Prague meetup 2016,en,2016-08-05,False,5078,1,0,"2016,Code Sprint,Workshops",54,2016-06-28
+4163,GRASS GIS Ispra meetups 2016,en,2016-10-19,False,4581,2,0,Workshops,53,2016-09-23
+4395,GRASS GIS Jupyter notebooks,en,2023-05-07,False,6263,0,0,"Documentation,Python",27,2017-10-21
+3120,GRASS GIS Performance,en,2021-02-27,False,10822,0,0,"FAQ,Hardware,Massive data analysis,Raster,Vector",44,2012-08-13
+3887,GRASS GIS Raleigh meetups 2016,en,2019-12-20,False,11351,3,0,"2016,Code Sprint,Workshops",71,2016-01-08
+4257,GRASS GIS Raleigh meetups 2017,en,2019-12-20,False,3804,0,0,"2017,Code Sprint,Workshops",16,2017-02-06
+3743,GRASS GIS Standardized Sample Datasets,en,2016-01-13,False,9456,7,0,,15,2015-03-06
+4270,GRASS GIS at FOSS4G Boston 2017,en,2017-08-21,False,12821,0,0,"2017,Code Sprint,Conferences,Workshops",32,2017-03-07
+4308,GRASS GIS at ICC 2017,en,2017-07-18,False,11853,0,0,"2017,Conferences,Workshops",15,2017-06-02
+4265,GRASS GIS at NCGIS2017,en,2019-03-03,False,10554,0,0,"2017,Conferences",11,2017-02-26
+4504,GRASS GIS at OSGeo Community Sprint 2019,en,2019-05-17,False,4133,0,0,Workshops,12,2019-05-14
+4636,GRASS GIS at OSGeo Community Sprint 2022,en,2022-09-01,False,9525,0,2,"2022,Code Sprint,Workshops",39,2022-08-26
+4594,GRASS GIS at OSGeo Virtual Community Sprint 2020,en,2020-11-20,False,2578,0,2,"2020,Code Sprint",6,2020-11-20
+4269,GRASS GIS at US-IALE 2017 Annual Meeting,en,2017-05-09,False,10214,0,0,Workshops,16,2017-02-27
+3904,GRASS GIS contributors meetings in San Michele,en,2016-02-12,False,595,1,0,"Code Sprint,Workshops",3,2016-02-11
+3905,GRASS GIS contributors meetings in San Michele/April 2013,en,2016-02-19,False,347,1,0,"2013,Code Sprint,Workshops",3,2016-02-11
+3906,GRASS GIS contributors meetings in San Michele/February 2016,en,2016-09-06,False,4608,1,0,"2016,Code Sprint,Workshops",39,2016-02-11
+3876,GRASS GIS contributors meetings in Solany,en,2016-02-15,False,774,1,0,"Code Sprint,Workshops",33,2015-12-21
+3888,GRASS GIS contributors meetings in Solany/December 2015,en,2016-02-19,False,1547,1,0,"2015,Code Sprint,Workshops",3,2016-01-19
+3890,GRASS GIS contributors meetings in Solany/February 2016,en,2016-02-19,False,1890,3,0,"2016,Code Sprint,Workshops",29,2016-01-19
+3895,GRASS GIS contributors meetings in Solany/January 2016,en,2016-01-22,True,69,0,0,,1,2016-01-22
+3889,GRASS GIS contributors meetings in Solany/Summer 2014,en,2016-02-19,False,297,1,0,"Code Sprint,Workshops",3,2016-01-19
+3818,GRASS GIS for ArcGIS users,en,2016-02-26,False,22259,1,0,"ArcGIS,Documentation,FAQ,Pages using deprecated source tags",27,2015-08-20
+4117,GRASS GIS for ArcGIS users/es,en,2016-07-26,False,24184,0,2,"ArcGIS,Documentation,FAQ,Languages/es,Pages using deprecated source tags",3,2016-07-22
+2966,GRASS GSoC 2012 High level map interaction,en,2013-05-27,False,40606,0,0,"Community,Development,GSoC,Linking to other languages,Python",47,2012-03-31
+3013,GRASS GSoC 2012 Image Segmentation,en,2015-12-22,False,25714,2,0,"GSoC,Pages using deprecated source tags",68,2012-04-30
+3019,GRASS GSoC 2012 WxGUI front end for vector analysis modules,en,2013-07-27,False,10258,8,2,"Community,Development,GSoC,WxGUI",78,2012-05-06
+3429,GRASS GSoC 2013 An Implementation of Horizon Based Stratigraphy for GRASS,en,2013-07-27,False,9667,0,1,"Community,Development,GSoC",12,2013-07-12
+3408,GRASS GSoC 2013 GRASS GIS Interactive Scatter Plot Tool,en,2014-02-05,False,10762,0,5,"Videos,WxGUI",53,2013-06-17
+3419,GRASS GSoC 2013 Temporal GIS Algebra for raster and vector data in GRASS,en,2014-08-26,False,29402,0,1,"Community,Development,GSoC,Temporal,WxGUI",34,2013-06-21
+3018,GRASS GSoC Image Segmentation,en,2012-05-06,True,48,0,0,,1,2012-05-06
+1423,GRASS GUI,en,2021-04-14,False,1815,0,0,"Development,GUI",56,2006-05-19
+2703,GRASS Hackfest Prague 2011,en,2011-02-22,True,41,0,0,,1,2011-02-22
+1421,GRASS Help,en,2015-08-24,False,4640,0,0,Documentation,83,2006-05-19
+1854,GRASS Help/id,en,2009-09-13,False,4879,0,0,Languages/id,18,2008-07-09
+2142,GRASS Help/it,en,2013-05-12,False,5572,0,0,"Documentation,Languages/it",12,2009-09-13
+3377,GRASS Help/ko,en,2013-05-24,False,5131,0,0,Documentation,5,2013-05-21
+4152,GRASS Help/pl,en,2016-08-22,False,4910,0,2,"Documentation,Languages/pl",1,2016-08-22
+1949,GRASS Help/ro,en,2010-01-06,False,4975,0,0,"Documentation,Languages/ro",25,2009-02-10
+2083,GRASS Help/sr,en,2009-09-13,False,6684,0,0,"Documentation,Languages/sr",5,2009-07-13
+1521,GRASS Location Wizard,en,2016-03-12,False,10453,10,0,"Documentation,FAQ,Import,WxGUI",35,2006-09-22
+3117,GRASS Logo,en,2015-01-28,False,1268,0,0,"Branding,FAQ,Promotion",9,2012-08-12
+1579,GRASS Metadata Management,en,2018-01-11,False,4528,0,0,"Development,INSPIRE,Metadata",44,2007-02-10
+1687,GRASS Migration to OSGeo,en,2019-03-30,False,10020,0,0,"Development,Historic",84,2007-11-16
+1427,GRASS Module Porting List,en,2007-12-15,False,10963,0,0,"Community,Development,Documentation,FAQ",18,2006-05-19
+1410,GRASS Programming Howto,en,2018-02-09,False,58866,0,0,Development,43,2006-05-19
+1374,GRASS Project Incubation,en,2007-04-18,False,2355,0,0,,2,2006-05-18
+1373,GRASS Project Steering Commitee,en,2014-06-11,False,19,0,0,MovedToTrac,27,2006-05-18
+1601,GRASS Project Update 2007Q1,en,2007-04-03,False,3090,0,0,,5,2007-04-03
+1455,GRASS Propaganda,en,2010-03-18,False,479,1,0,"Community,Promotion",8,2006-06-08
+2958,GRASS Python Scripting Library,en,2022-11-23,False,39717,1,1,"Development,Linking to other languages,Pages using deprecated source tags,Python",6,2020-10-10
+1384,GRASS Raster Mask,en,2013-02-05,False,736,0,0,"FAQ,MASK,NeedsExpansion,Raster",4,2006-05-19
+1724,GRASS SoC Ideas,en,2013-02-11,True,34,0,0,,8,2008-02-20
+1590,GRASS SoC Ideas 2007,en,2011-03-13,False,5251,0,0,"Community,Development,GSoC",32,2007-02-27
+1726,GRASS SoC Ideas 2008,en,2014-02-06,False,15222,0,0,"Community,Development,GSoC",66,2008-02-21
+1948,GRASS SoC Ideas 2009,en,2014-02-06,False,11887,3,0,"Community,Development,GSoC",60,2009-02-10
+2355,GRASS SoC Ideas 2010,en,2014-06-27,False,10419,3,0,"Development,GSoC",62,2010-02-20
+2740,GRASS SoC Ideas 2011,en,2015-02-11,False,13240,3,0,"Community,Development,GSoC",95,2011-03-13
+2940,GRASS SoC Ideas 2012,en,2015-12-19,False,16379,1,0,"Community,Development,GSoC",82,2012-02-11
+3387,GRASS SoC Ideas 2012/High level map interaction,en,2013-05-27,True,56,0,1,,2,2013-05-27
+3109,GRASS SoC Ideas 2012/High level map interaction/Vector,en,2012-07-17,False,4187,0,0,"GSoC,Linking to other languages,Python",3,2012-07-16
+3282,GRASS SoC Ideas 2013,en,2013-05-28,False,15530,0,3,"Community,Development,GSoC,Pages using deprecated source tags",64,2013-01-22
+1412,GRASS ToDo List,en,2012-01-11,False,1625,0,0,Development,12,2006-05-19
+1424,GRASS Translation Glossary,en,2018-03-23,False,71554,0,0,"Documentation,Translation",27,2010-02-08
+1506,GRASS Translation Team,en,2020-12-13,False,3923,6,0,Community,46,2006-08-12
+1416,GRASS UserMap,en,2013-03-04,False,3027,0,0,Community,16,2006-05-19
+1385,GRASS Vector Attributes,en,2014-03-24,False,1214,0,0,"FAQ,Vector",7,2006-05-19
+1784,GRASS Vector Layers,en,2011-12-07,False,8169,0,0,"Documentation,Vector",88,2008-05-21
+2054,GRASS and ABM,en,2015-07-19,False,895,0,0,"Development,Linking to other languages",4,2009-05-21
+3578,GRASS and Blender,en,2014-05-05,False,4371,4,0,"3D,Documentation,FAQ,Tutorial,VTK,Visualization",1,2014-05-05
+2408,GRASS and C++,en,2012-11-27,False,1288,0,1,"C++,Development,Linking to other languages",10,2010-04-13
+1671,GRASS and GMT,en,2016-06-16,False,12071,0,4,"Documentation,Linking to other languages,Pages using deprecated source tags,Tutorial",52,2007-10-04
+2382,GRASS and Java,en,2011-12-30,False,2155,0,0,"Development,Java,Linking to other languages",9,2010-03-05
+2957,GRASS and Kepler,en,2012-03-11,False,959,0,0,"Development,Linking to other languages",1,2012-03-11
+1541,GRASS and MapServer,en,2016-08-15,False,2575,0,0,"Documentation,Web Servers",14,2006-11-05
+2317,GRASS and Octave,en,2009-11-19,False,774,0,0,"Documentation,Linking to other languages",8,2009-11-18
+1417,GRASS and PHP,en,2009-04-01,False,8094,0,0,"Development,Linking to other languages",15,2006-05-19
+2066,GRASS and Paraview,en,2013-06-19,False,3031,4,0,"FAQ,Linking to other languages,Tutorial,VTK,Visualization",19,2009-06-03
+4131,GRASS and Paraview/es,en,2016-07-29,False,3420,3,1,"3D,Documentation,FAQ,Languages/es,Linking to other languages,Tutorial,VTK,Visualization",1,2016-07-29
+2421,GRASS and Povray,en,2010-05-10,True,21,0,0,,1,2010-05-10
+1418,GRASS and Python,en,2020-12-08,False,18919,2,0,"Development,Linking to other languages,Pages using deprecated source tags,Python",39,2014-04-22
+3380,GRASS and Python/ko,en,2013-06-04,False,16010,1,0,Python,9,2013-05-23
+2921,GRASS and QGIS,en,2011-12-04,True,33,0,0,,1,2011-12-04
+2837,GRASS and R,en,2011-09-08,True,26,0,0,,1,2011-09-08
+2386,GRASS and Rstat,en,2010-03-10,True,26,0,1,,1,2010-03-10
+3804,GRASS and Ruby,en,2015-07-26,False,3946,0,0,Linking to other languages,4,2015-07-23
+2315,GRASS and SAGA,en,2013-04-28,False,11829,0,0,"Documentation,FAQ,Linking to other languages,Pages using deprecated source tags,Tutorial",25,2009-11-17
+2400,GRASS and Sextante,en,2017-01-24,False,10200,6,1,Tutorial,46,2010-04-01
+4525,GRASS and Shapely,en,2019-11-08,False,377,0,0,"Linking to other languages,Python",1,2019-11-08
+1481,GRASS and Shell,en,2021-03-29,False,10208,0,0,"FAQ,Linking to other languages,Pages using deprecated source tags,Scripting",75,2006-06-24
+2167,GRASS and VTK,en,2013-06-19,False,3299,0,0,VTK,9,2009-09-26
+4451,GRASS and bat-files in windows console,en,2018-08-24,True,39,0,1,,1,2018-08-24
+1669,GRASS and its siblings; a guide for the novice,en,2010-01-15,False,4259,0,0,,17,2007-09-17
+1895,GRASS and its siblings; a guide for the novice/id,en,2008-10-07,False,2256,0,0,Translating into Bahasa Indonesia,2,2008-10-07
+1668,GRASS and its siblings; a guide to the novice,en,2009-06-04,True,60,0,1,,2,2007-09-17
+4311,GRASS and windows console,en,2018-12-23,False,2489,0,0,WinGRASS,27,2017-06-14
+3582,GRASS configuration files in home directory,en,2014-05-13,False,905,0,0,"Documentation,FAQ,WinGRASS",3,2014-05-12
+2912,GRASS development visualization,en,2015-12-23,False,6091,0,0,"Templates,Videos",8,2011-11-11
+1602,GRASS in Debian,en,2014-12-26,False,1157,0,3,"Debian,Development,Documentation,Installation",9,2007-04-07
+1451,GRASS in the wild,en,2016-06-08,False,575,0,0,,9,2006-05-29
+2003,GRASS mailing list community evolution,en,2016-12-23,False,9606,8,0,,19,2009-03-18
+2949,GRASS manual translation,en,2014-01-29,False,1617,0,3,"MoveToTrac,ToModify",2,2012-02-17
+2948,GRASS manual translation: proposed script,en,2012-02-29,False,11988,0,0,Documentation,5,2012-02-17
+1907,GRASS messages translation,en,2023-05-05,False,11482,2,2,"Development,Documentation,FAQ,Pages using deprecated source tags,Translation",76,2008-10-30
+2173,GRASS messages translation/sr,en,2009-09-29,False,9552,0,1,"Development,Documentation,FAQ,Languages/sr",1,2009-09-29
+1413,GRASS migration hints,en,2016-02-01,False,5780,0,0,"ArcGIS,Community,Linking to other languages",51,2006-05-19
+1845,GRASS migration hints/id,en,2008-07-09,False,2827,0,0,"Community,Languages/id",12,2008-07-08
+1884,GRASS pixel rules,en,2008-09-04,True,36,0,0,,1,2008-09-04
+1569,GRASS promotion team,en,2013-01-25,False,4520,0,0,"Branding,Promotion",53,2007-01-20
+1883,GRASS raster semantics,en,2022-02-07,False,8025,0,0,"Pages using deprecated source tags,Raster",22,2008-09-04
+4125,GRASS raster semantics/es,en,2019-09-27,False,8197,0,3,Raster,4,2016-07-26
+2765,GRASS related workshops and presentations,en,2016-05-27,True,33,0,1,,2,2011-05-06
+2772,GRASS repository layout proposal,en,2011-05-21,True,23,0,1,,1,2011-05-21
+1490,GRASS vector export to Inkscape,en,2008-05-07,False,2231,0,0,Documentation,14,2006-07-12
+4458,GRASS virtual exhibition,en,2018-09-11,False,1483,0,0,Promotion,8,2018-09-03
+4459,GRASS virtual exhibition grass3dtshirt demo,en,2018-09-11,False,45,0,0,,1,2018-09-11
+1903,GRIB,en,2016-10-31,False,6370,1,3,"Documentation,Grib,Pages using deprecated source tags,Tutorial",40,2008-10-25
+2417,GSoC,en,2010-05-07,True,28,0,0,GSoC,1,2010-05-07
+1769,GSoC Buffer Implementation,en,2011-03-13,False,1234,0,0,"Community,Development,GSoC",7,2008-04-27
+2045,GSoC Network Analysis,en,2013-09-30,False,15353,0,0,"GSoC,Network Analysis",19,2009-05-15
+1901,GUI,en,2008-10-21,False,1102,0,1,Documentation,2,2008-10-21
+2757,GUI for ps.map,en,2011-09-16,True,41,0,1,,2,2011-04-16
+2924,Gap filling for categorical data,en,2011-12-07,False,252,0,0,FAQ,1,2011-12-07
+3307,Gdal probs,en,2013-02-05,True,35,0,1,,1,2013-02-05
+3140,Generate a grid with sequential numbers,en,2012-09-19,False,775,1,0,"FAQ,Pages using deprecated source tags",2,2012-09-17
+3093,GeoStatistics,en,2013-01-01,False,619,0,1,"Geostatistics,Gstat,R,Statistics",2,2012-07-13
+2029,Geodata,en,2009-04-23,True,29,0,1,,1,2009-04-23
+1925,Geology,en,2013-07-23,False,2808,3,1,"Applications,Documentation",20,2008-12-02
+1880,Geomagnetism,en,2012-05-19,False,2622,0,0,,12,2008-08-26
+2702,Geomorphometry,en,2023-02-21,False,4700,0,2,Terrain,18,2011-02-21
+1882,Geophysics,en,2012-05-19,False,2474,0,0,"Applications,Documentation",10,2008-08-27
+1389,Georeferencing,en,2021-11-10,False,3612,1,0,FAQ,20,2006-05-19
+1540,Gis Concepts,en,2006-10-27,True,26,0,0,,1,2006-10-27
+1892,Gis Concepts/id,en,2008-11-12,False,9792,0,0,"Community,Development,Languages/id,Translating into Bahasa Indonesia",7,2008-09-30
+4505,GitHub-Zenodo linkage,en,2019-05-19,False,14157,0,0,,34,2019-05-18
+3221,GlobalChangeBiology,en,2012-12-06,False,9440,7,0,Case Studies,51,2012-11-22
+3325,Global Land Cover Characteristics,en,2019-07-02,False,2466,0,3,"Geodata,Import",5,2013-02-18
+1897,Global datasets,en,2020-12-31,False,41772,3,0,"Geodata,Import,Pages using deprecated source tags,Pages with syntax highlighting errors",27,2017-02-07
+1937,Global datasets/id,en,2010-02-06,False,6531,0,0,Languages/id,25,2009-01-17
+1750,GrassASCIIFile,en,2012-12-20,False,1817,0,0,"FAQ,Import",8,2008-04-02
+3356,Grass in Debian,en,2013-04-15,True,29,0,1,,1,2013-04-15
+1570,Grassbrochure,en,2018-09-02,False,790,0,0,"Promotion,RemoveOrConserve",40,2007-01-20
+1881,Gravity,en,2008-08-29,False,1653,0,0,,7,2008-08-26
+2325,Grid registration,en,2010-01-04,False,4276,0,1,"Pages using deprecated source tags,Raster",6,2010-01-03
+1646,HOWTO create 3D TIN,en,2008-11-02,True,45,0,1,FAQ,4,2007-07-30
+3595,HOWTO get centroid coordinates,en,2014-06-18,False,669,0,0,"FAQ,HowTo,Vector",1,2014-06-18
+4137,HOWTO get centroid coordinates/es,en,2016-08-03,False,1005,0,0,"Languages/es,Vector",3,2016-08-03
+2053,HOWTO import SRTM elevation data,en,2017-09-24,False,7384,0,0,"Geodata,HowTo,Import,Pages using deprecated source tags,Raster",26,2009-05-20
+1615,HOWTO import USGS elevation data,en,2013-08-07,False,1671,0,1,"FAQ,HowTo,Import",17,2007-05-09
+2489,HTMLMAP driver,en,2010-10-08,False,3270,0,0,,4,2010-10-08
+1834,Halaman Utama,en,2008-07-08,True,27,0,1,,1,2008-07-08
+1466,Help,en,2013-07-13,False,2418,0,0,,25,2006-06-15
+3382,Help/ko,en,2013-05-24,False,3317,0,2,,1,2013-05-24
+1525,Help with 3D,en,2022-04-21,False,16340,10,2,"3D,Documentation,Visualization,Voxel",72,2007-02-08
+1906,How the Open Source software development model works,en,2013-08-06,False,1758,0,0,"FAQ,Promotion",4,2008-10-27
+4120,How the Open Source software development model works/es,en,2016-07-22,False,1874,0,0,"FAQ,Languages/es,Promotion",1,2016-07-22
+1927,How to create an elevation profile,en,2016-02-11,False,5056,0,0,"FAQ,HowTo",14,2008-12-06
+3466,How to create parameters to run r.ros,en,2021-03-25,False,4679,0,0,"Documentation,FAQ,Hazards,HowTo,Wildfire",20,2013-08-07
+1429,How to interpolate point value using kriging method with R and GRASS 6,en,2013-08-09,False,3335,0,0,"Documentation,HowTo,R,Tutorial",14,2006-05-19
+1371,How to participate in IRC communication,en,2022-08-01,False,5109,1,0,Community,29,2006-05-18
+2353,How to participate in IRC communication/id,en,2010-02-06,False,5543,0,0,"Languages/id,Translating into Bahasa Indonesia",6,2010-02-06
+2403,Hydrologic Sciences,en,2010-04-09,True,35,0,1,,1,2010-04-09
+2402,Hydrological Sciences,en,2020-12-27,False,11461,1,1,"Applications,Documentation,Hydrology",89,2010-04-09
+4171,Hydrology,en,2016-10-03,True,33,0,1,,1,2016-10-03
+2156,I.plr.py,en,2013-05-21,False,11747,1,0,"Development,Documentation,Linking to other languages,Python",6,2009-09-23
+4614,IALE - North America 2021,en,2021-04-27,False,12458,5,2,"2021,Conferences",8,2021-04-22
+2576,IGNF Register,en,2010-11-16,True,52,0,0,,1,2010-11-16
+2588,IGNF Register/fr,en,2010-11-30,True,55,0,0,,1,2010-11-30
+2575,IGNF register and shift grid NTF-RGF93,en,2011-01-03,False,5182,0,0,Tutorial,12,2010-11-15
+2586,IGNF register and shift grid NTF-RGF93/fr,en,2011-01-03,False,6103,0,0,"Languages/fr,Tutorial",8,2010-11-30
+2587,IGNF register and shift grid NTF/RGF93,en,2010-11-30,True,52,0,0,,1,2010-11-30
+3324,IGN wmts stream,en,2013-02-15,False,4046,0,0,"Languages/fr,Tutorial",2,2013-02-14
+3437,IKONOS,en,2018-12-04,False,21800,0,0,"Documentation,FAQ,High Resolution,IKONOS,Image processing,Import,Pages using deprecated enclose attributes,Pages using deprecated source tags,Radiance,Reflectance",62,2013-07-26
+1708,IRC,en,2008-01-25,True,53,0,0,,1,2008-01-25
+3606,ISO/INSPIRE Metadata Support,en,2023-05-01,False,23312,0,1,"Development,INSPIRE,Metadata,Pages using deprecated source tags,Templates,Videos",70,2014-08-14
+3949,ISPRS XXIII Congress 2016: GRASS related workshops and presentations,en,2016-09-28,False,16266,0,1,"2016,Conferences",16,2016-02-29
+3722,IT:XVI Meeting degli Utenti Italiani di GRASS GFOSS,en,2015-02-13,True,65,0,1,,1,2015-02-13
+1456,IconSymbols,en,2018-07-11,False,11100,10,0,"Hydrology,Ps.map",88,2006-06-15
+3684,Identity,en,2018-09-18,False,11073,0,3,Promotion,28,2015-01-28
+2306,Image classification,en,2018-12-04,False,16001,0,0,"Documentation,Image processing,Tutorial",44,2009-10-28
+4132,Image classification/es,en,2016-08-05,False,16847,0,2,"Documentation,Image processing,Languages/es,Tutorial",2,2016-07-30
+2812,Image destriping,en,2015-10-10,False,1853,0,0,"Image processing,Pages using deprecated source tags",8,2011-07-29
+1520,Image processing,en,2020-02-12,False,15445,0,0,"Development,Documentation,Image processing",33,2013-09-03
+3562,Image processing/Evapotranspiration,en,2015-06-12,False,3828,0,0,"Documentation,Evapotranspiration",4,2014-03-31
+3457,Image processing/it,en,2018-12-04,False,15376,0,5,"Development,Documentation,Image processing,Languages/it,Translating into Italiano",8,2013-07-31
+1530,Imagery,en,2008-04-01,True,30,0,0,,4,2006-10-18
+1875,Import DXF,en,2018-12-04,False,2106,3,0,"Documentation,FAQ,Import,Vector,WxGUI",29,2008-08-20
+1863,Import Mio C230 GPS track maps,en,2012-12-20,False,1078,1,0,Import,4,2008-07-30
+1432,Import NoaaEnc,en,2012-12-20,False,1309,0,0,"Documentation,Import",4,2006-05-19
+2577,Import TRMM,en,2014-09-25,False,1497,0,0,Import,5,2010-11-17
+2044,Import XYZ,en,2012-12-20,False,4099,0,0,Import,13,2009-05-12
+2358,Importing data,en,2023-01-20,False,6429,4,0,"Documentation,FAQ,Import",29,2010-02-21
+2412,Importing data/pl,en,2016-08-22,False,5149,2,0,"Documentation,FAQ,Import,Languages/pl,Translating into Polish",11,2010-04-14
+3319,Importing large GADM vector data,en,2016-09-18,False,781,0,0,"FAQ,Import,Massive data analysis,Vector",7,2013-02-11
+4162,Importing large vector data,en,2016-09-18,True,46,0,1,,1,2016-09-18
+1434,Installation Guide,en,2020-12-15,False,6937,5,0,"Documentation,Installation",94,2006-05-21
+1788,Installation Guide/id,en,2011-08-23,False,5611,0,0,"Documentation,Installation,Languages/id",22,2008-05-31
+3367,Installation Guide/it,en,2013-05-18,False,7237,0,0,"Documentation,Installation,Languages/it",8,2013-05-11
+2602,Interpolation,en,2020-10-12,False,4969,1,0,"Documentation,FAQ,Interpolation",18,2011-01-03
+4134,Interpolation/es,en,2018-12-04,False,5135,0,4,"Documentation,FAQ,Interpolation,Languages/es",5,2016-08-03
+1626,Intro,en,2007-06-09,False,1588,0,0,,1,2007-06-09
+3976,Introduction to GRASS GIS with terrain analysis examples,en,2019-11-06,False,15881,4,0,"Terrain,Tutorial",41,2016-03-19
+2752,Invasive Species modelling,en,2012-11-26,False,685,0,0,"Applications,Documentation",3,2011-04-14
+1498,Irc,en,2006-08-05,True,53,0,0,,1,2006-08-05
+2434,Jobs,en,2014-02-03,False,210,0,1,FAQ,2,2010-05-24
+1830,Kompilasi dan Instalasi,en,2008-07-08,True,36,0,0,,1,2008-07-08
+1835,Komunitas GRASS,en,2008-07-08,True,32,0,0,,1,2008-07-08
+2063,Kriging,en,2009-08-26,False,1182,0,1,"Documentation,R",4,2009-05-28
+1928,LANDSAT,en,2018-12-04,False,17978,0,0,"FAQ,Geodata,Image processing,Import,Landsat,Pages using deprecated enclose attributes,Pages using deprecated source tags,Radiance,Reflectance",33,2013-01-14
+1563,LIDAR,en,2020-10-11,False,28240,2,0,"Documentation,Image processing,Import,Interpolation,Pages using deprecated source tags,Raster,Vector",61,2011-10-28
+1383,Labels Show,en,2006-12-12,False,863,0,0,FAQ,3,2006-05-19
+2528,LandDyn,en,2013-05-07,False,1245,0,0,Applications,2,2010-10-10
+2901,Landscape Genetics,en,2011-10-23,False,1253,0,0,"Applications,Documentation",1,2011-10-23
+2023,Landscape ecology,en,2012-10-20,False,1021,0,0,Documentation,2,2009-04-19
+3374,Language policy/ko,en,2013-05-19,False,381,0,0,,1,2013-05-19
+1536,Large File Support,en,2016-09-11,False,95,0,0,"Development,Massive data analysis,MovedToTrac",28,2006-10-24
+3110,Large raster data processing,en,2022-12-07,False,7811,0,1,Tutorial,37,2012-07-19
+3766,Large vector data processing,en,2017-05-08,False,2223,0,2,"Massive data analysis,Vector",4,2015-04-24
+4176,Lidar Analysis of Vegetation Structure,en,2018-09-23,False,32894,7,3,"Documentation,Tutorial",26,2016-11-05
+3428,Limiting precision in vector nodes,en,2018-04-23,False,1450,0,0,"FAQ,Vector",8,2013-07-12
+3131,Linear Reference System,en,2014-02-01,False,2607,1,0,"Documentation,FAQ,Vector",3,2012-09-02
+4556,List of GRASS GIS conferences and meetings,en,2020-04-07,False,2089,0,0,Conferences,3,2020-04-07
+1378,Location and Mapsets,en,2018-12-04,False,9948,0,0,FAQ,18,2006-05-19
+2324,MB-System,en,2012-12-20,False,12778,2,0,"Geodata,Import,Pages using deprecated source tags",56,2009-12-29
+2398,MCDA in GRASS,en,2015-03-04,False,11870,0,0,"GSoC,MoveToTrac",8,2010-03-31
+1749,MODIS,en,2018-05-10,False,28438,0,0,"Geodata,Image processing,Pages using deprecated source tags",60,2009-03-11
+3386,MacOSX GRASS errors,en,2020-04-23,False,5386,0,2,"FAQ,Installation",20,2013-05-27
+1486,MacOSX and X11,en,2013-01-26,False,1115,0,0,"FAQ,OutDated",6,2006-07-05
+1694,Mailing list etiquette,en,2015-03-10,False,5589,0,0,,32,2007-12-02
+3216,Mailing list hints,en,2012-11-10,False,1284,0,0,FAQ,1,2012-11-10
+1365,Main Page,en,2006-05-06,True,24,0,0,,1,2006-05-06
+2572,Main Page/sv,en,2010-11-11,False,5182,3,6,Languages/sv,3,2010-11-11
+1999,Main Page color test,en,2013-01-25,False,6981,2,0,"Colors,GRASS-Wiki,Testing",10,2009-03-14
+2623,Man Pages Improvement Sprint,en,2011-01-20,False,1139,0,1,Development,13,2011-01-19
+1912,Map Names,en,2008-11-11,False,1012,0,0,FAQ,1,2008-11-11
+1390,Map Reprojection,en,2023-04-24,False,5385,3,0,"FAQ,Pages using deprecated source tags,Raster,Vector",24,2006-05-19
+2379,Map scale,en,2010-03-01,False,1384,0,0,FAQ,1,2010-03-01
+1716,Marine Science,en,2019-07-17,False,9116,0,4,"Applications,Documentation",91,2008-02-05
+1627,Memory issues,en,2016-10-02,False,3142,0,0,"FAQ,Massive data analysis",9,2007-06-10
+1905,Meteorology,en,2015-07-19,False,2140,4,2,Grib,31,2008-10-25
+2413,Meteorology/pl,en,2010-04-16,False,1482,1,2,"Applications,Documentation,Languages/pl,Translating into Polish",2,2010-04-16
+1623,Migration from CVS to SVN,en,2013-01-26,False,3049,1,0,Historic,16,2007-12-05
+1701,Module command line parser,en,2015-11-28,False,6765,0,0,"FAQ,Linking to other languages",29,2007-12-18
+1516,Movies,en,2019-09-06,False,13273,0,0,"FAQ,Pages using deprecated source tags,Templates,Videos,Visualization",99,2006-09-07
+4066,Multiuser installation,en,2016-06-10,True,56,0,0,,1,2016-06-10
+4492,NCGIS2019,en,2021-02-11,False,14276,2,0,"2019,Conferences",11,2019-03-02
+4607,NCGIS2021,en,2021-04-22,False,5069,3,5,"2021,Conferences",11,2021-02-11
+4512,NLCD Land Cover,en,2022-08-14,False,6424,3,2,"Geodata,Import,Pages using deprecated source tags",39,2019-07-02
+2357,NVIZ,en,2013-05-30,False,1077,1,0,"NVIZ,Visualization",8,2010-02-21
+4129,NVIZ/es,en,2016-07-28,False,1209,1,0,"Languages/es,NVIZ,Visualization",1,2016-07-28
+1725,Natural Hazards,en,2021-03-16,False,7890,0,0,"Applications,Documentation,Hazards,Hydrology,Risk",47,2008-02-21
+2082,NetCDF,en,2013-11-23,False,2331,0,0,"FAQ,Geodata,Import",9,2009-07-09
+1917,Netiquette,en,2008-11-25,True,36,0,0,,1,2008-11-25
+1439,Newsletter citations Vol1,en,2013-02-05,False,2380,0,0,"Citations,Newsletter",3,2006-05-25
+1440,Newsletter citations Vol2,en,2013-02-05,False,912,0,0,"Citations,Newsletter",3,2006-05-25
+1441,Newsletter citations Vol3,en,2013-02-05,False,2659,0,0,"Citations,Newsletter",2,2006-05-25
+1450,Newsletter citations Vol4,en,2013-02-05,False,80,0,0,"Citations,NeedsExpansion,Newsletter",2,2006-05-29
+2093,OSM,en,2009-08-13,True,27,0,0,,1,2009-08-13
+3954,OSM data,en,2016-03-06,False,34,0,1,,2,2016-03-02
+3368,OpenCL,en,2013-05-13,True,17,0,1,,1,2013-05-13
+2002,OpenMP,en,2018-12-04,False,11498,0,0,"Development,Pages using deprecated source tags,Parallelization",74,2009-03-18
+3435,OpenMP/Benchmarks,en,2013-09-15,False,4007,0,0,"Massive data analysis,Parallelization",21,2013-07-24
+2146,OpenSceneGraph,en,2011-04-19,False,846,0,0,Documentation,3,2009-09-15
+2092,OpenStreetMap,en,2018-05-10,False,4175,5,0,Geodata,20,2009-08-13
+1512,Openoffice.org with SQL Databases,en,2015-09-14,False,11475,10,0,"Database,FAQ",55,2006-08-13
+1592,Or this other way,en,2007-03-04,True,33,0,1,,1,2007-03-04
+2344,Oracle Spatial,en,2010-01-20,False,451,0,0,,3,2010-01-19
+2058,Orthorectification,en,2012-03-14,False,634,0,1,"Documentation,Orthorectification",4,2009-05-25
+1705,Orthorectification digital camera,en,2014-05-10,False,7854,0,0,"Documentation,Image processing,Orthorectification",6,2008-01-05
+1664,Own Scripts Management,en,2007-09-06,False,385,0,0,FAQ,1,2007-09-06
+2024,POV-Ray,en,2011-01-27,False,5518,0,3,Visualization,11,2009-04-21
+1556,PSC,en,2017-01-03,False,37,0,0,"MovedToTrac,PSC",45,2006-12-02
+1595,PSC Agenda,en,2014-06-11,False,26,0,0,MovedToTrac,41,2007-03-07
+3151,PSC election 2012,en,2014-06-11,False,32,0,0,MovedToTrac,13,2012-10-11
+2071,Packaging on MacOSX,en,2009-09-22,False,2719,0,0,MoveToTrac,5,2009-06-12
+1838,Panduan Instalasi,en,2008-07-08,True,35,0,1,,1,2008-07-08
+1722,Parallel GRASS jobs,en,2023-04-26,False,10784,0,0,"Massive data analysis,Pages using deprecated source tags,Parallelization,Templates,Videos",5,2018-02-07
+3068,Parallelizing Scripts,en,2020-10-10,False,7607,0,1,"Development,Pages using deprecated source tags,Parallelization",16,2012-06-19
+2934,Paraview,en,2012-01-11,True,32,0,1,,1,2012-01-11
+3933,Paris Code Sprint 2016 Agenda,en,2016-02-19,True,47,0,1,,1,2016-02-19
+1699,Patches,en,2016-09-15,False,6862,1,0,Development,16,2007-12-10
+3523,Performance comparison GRASS vs. ArcGIS,en,2021-02-09,False,1352,2,1,"ArcGIS,ToModify",18,2013-12-19
+3526,Performance issues GRASS vs. ArcGIS,en,2013-12-19,True,53,0,1,,1,2013-12-19
+1807,Planetary mapping,en,2016-04-11,False,4939,5,2,"Applications,Documentation,Templates,Videos",49,2008-06-24
+2900,Planning,en,2011-10-23,False,147,0,0,Documentation,1,2011-10-23
+1617,Point in Polygon,en,2007-05-18,True,34,0,0,,1,2007-05-18
+1633,Point in polygon,en,2014-09-29,False,472,0,0,"FAQ,Vector",6,2007-07-12
+1375,Points Edge Selection,en,2013-02-05,False,435,0,0,"Documentation,FAQ,OldGRASSVersion",3,2006-05-19
+3239,Population Genetics and GIS,en,2012-12-04,False,8765,0,0,Case Studies,12,2012-12-01
+1887,PostGIS,en,2017-01-23,False,6173,0,0,"FAQ,Templates,Vector,Videos",82,2008-09-10
+3234,PostGIS Topology,en,2017-11-06,False,15350,10,2,"FAQ,GRASS 7,Pages using deprecated source tags,Templates,Topology,Vector,Videos",47,2013-11-16
+1372,Potential tasks and responsibilities,en,2017-01-03,False,5873,0,0,,2,2006-05-18
+2026,Povray,en,2009-04-21,True,21,0,0,,1,2009-04-21
+2458,Principal Component Analysis,en,2010-07-21,True,43,0,0,,1,2010-07-21
+1992,Principal Components Analysis,en,2014-12-28,False,27672,0,0,"Documentation,Image processing",34,2009-04-20
+4332,Processing lidar and UAV point clouds in GRASS GIS (workshop at FOSS4G Boston 2017),en,2018-05-02,False,56500,9,0,"Tutorial,Vegetation,Workshops",53,2017-08-01
+4383,Processing lidar and UAV point clouds in GRASS GIS (workshop at FOSS4G Boston 2017)/es,en,2018-05-02,False,61201,0,2,Workshops,2,2017-08-23
+2437,Programming,en,2010-05-29,True,25,0,0,,1,2010-05-29
+1566,Project jobs,en,2021-01-24,False,7928,0,0,"Community,PSC",44,2006-12-09
+1852,Project jobs/id,en,2020-06-17,False,9121,0,0,"Community,Languages/id",15,2008-07-09
+2726,Project jobs/sr,en,2011-03-03,False,12866,0,0,Community,1,2011-03-03
+1644,Projection,en,2019-12-30,False,2447,1,0,FAQ,14,2007-07-29
+1435,Promotional material,en,2022-10-14,False,5750,0,0,"Branding,Community,Promotion,Templates,Videos",100,2006-05-21
+1853,Promotional material/id,en,2011-06-02,False,4170,0,0,"Community,Languages/id,Promotion",10,2008-07-09
+2052,Ps.map,en,2009-05-20,True,29,0,0,Ps.map,1,2009-05-20
+2343,Ps.map graph paper,en,2013-08-02,False,8363,0,1,"Pages using deprecated source tags,Printing,Ps.map",25,2010-01-17
+1683,Ps.map multi pane example,en,2013-08-02,False,2455,1,0,"Documentation,Printing,Ps.map",9,2007-10-25
+1478,Ps.map scripts,en,2014-06-10,False,11892,1,0,"Documentation,FAQ,Ps.map",72,2006-06-22
+2615,Ps.out,en,2011-01-13,True,23,0,1,,1,2011-01-13
+2529,Ps.out Making maps,en,2013-08-29,False,6038,0,2,"HowTo,Ps.map",43,2010-10-10
+2481,Ps.output,en,2013-08-02,False,21671,6,1,"Pages using deprecated source tags,Printing,Ps.map",90,2010-10-12
+1479,Psmap fill patterns,en,2009-05-20,False,2757,0,0,Ps.map,6,2006-06-22
+1688,Psmap flooding example,en,2010-10-08,False,3959,1,2,Ps.map,14,2007-11-18
+1685,Psmap moldefjord example,en,2012-06-04,False,3568,1,2,,6,2007-10-25
+3352,Psmap multi pane example,en,2013-04-12,True,39,0,1,,1,2013-04-12
+1480,Psmap simple example,en,2010-01-05,False,3886,0,1,Ps.map,4,2006-06-22
+1914,Public Health,en,2011-12-15,False,2504,0,2,"Applications,Documentation",7,2008-11-16
+1600,Publications,en,2012-03-04,True,39,0,1,,2,2007-03-27
+3088,Pylint rc file,en,2012-07-11,True,38,0,1,,1,2012-07-11
+3087,Pylint rc file for GRASS,en,2013-07-13,False,10864,0,0,"Development,Linking to other languages,Python",21,2012-07-11
+3073,Python,en,2012-07-01,True,29,0,1,,1,2012-07-01
+3475,Python/Closures,en,2013-09-09,False,1460,0,0,"Linking to other languages,Python",2,2013-09-09
+3301,Python/pygrass,en,2018-01-15,False,17235,0,0,"Development,Linking to other languages,Python",32,2013-02-03
+2616,PythonSwigExamples,en,2011-01-13,True,34,0,1,,1,2011-01-13
+2629,Python Ctypes Examples,en,2012-05-20,False,4878,0,1,"Development,Linking to other languages,Python",12,2011-01-20
+1736,Python Swig Examples,en,2015-03-04,False,6452,0,0,"Development,Linking to other languages,Python,RemoveOrConserve",29,2008-03-03
+3553,QGIS,en,2016-06-16,False,1134,0,3,"NeedsExpansion,QGIS",9,2014-03-05
+2531,QGIS GRASS Cookbook,en,2017-07-06,False,12294,0,0,Tutorial,32,2010-10-10
+3342,Quantile classification,en,2013-04-02,False,312,0,0,"FAQ,Pages using deprecated source tags",1,2013-04-02
+2185,QuickBird,en,2016-08-15,False,16598,1,0,"Image processing,Import,Pages using deprecated enclose attributes,Pages using deprecated source tags,QuikBird,Radiance,Reflectance",32,2009-10-05
+2151,Quick wxGUI tutorial,en,2015-08-08,False,14780,9,0,"Tutorial,WxGUI",40,2009-09-16
+2614,Quick wx tutorial,en,2011-01-11,True,34,0,1,,1,2011-01-11
+2062,R,en,2009-05-27,True,29,0,0,,1,2009-05-27
+2972,R.basin,en,2017-08-10,False,17860,0,1,"Documentation,Hydrology,Tutorial",88,2012-04-07
+2783,R.modis,en,2011-05-23,True,31,0,1,,1,2011-05-23
+2780,R.modis GSoC 2011,en,2012-04-11,False,14621,0,1,GSoC,42,2011-05-23
+3565,R.stream.*,en,2014-04-24,True,32,0,1,,1,2014-04-24
+2155,R.stream.* modules,en,2016-10-03,False,12413,6,0,"Documentation,Hydrology",41,2009-09-23
+2046,R.sun,en,2013-07-15,False,9777,4,0,"Documentation,Pages using deprecated source tags,Parallelization",43,2009-05-19
+1596,RFC1,en,2014-06-11,False,56,0,0,MovedToTrac,27,2007-03-09
+1603,RFC1 Development Page,en,2007-04-10,True,18,0,0,,1,2007-04-10
+1774,RST Spline Surfaces,en,2017-06-30,False,5756,0,0,"FAQ,Interpolation,Parallelization",33,2008-05-07
+1391,R statistics,en,2023-04-19,False,9379,0,0,"FAQ,Installation,Linking to other languages,Pages using deprecated source tags,R,Statistics",60,2012-09-05
+3788,R statistics/Installation,en,2023-04-21,False,3858,0,0,"R,Statistics",13,2015-07-19
+3790,R statistics/rgrass,en,2023-04-21,False,20888,2,0,"FAQ,Linking to other languages,Pages using deprecated source tags,R,Statistics",56,2015-07-19
+4127,R statistics/rgrass/es,en,2022-10-22,False,18168,0,0,"Linking to other languages,Pages using deprecated source tags,R,Statistics",2,2016-07-27
+4650,R statistics/rgrass7,en,2022-10-22,True,33,0,1,,1,2022-10-22
+4651,R statistics/rgrass7/es,en,2022-10-22,True,36,0,1,,1,2022-10-22
+3789,R statistics/spgrass6,en,2016-09-15,False,11351,2,0,"Linking to other languages,R,Statistics",6,2015-07-19
+2939,Radar data processing,en,2016-12-28,False,7885,5,0,"Documentation,Image processing,Import",10,2012-02-10
+3349,Raspberry Pi,en,2013-10-25,False,9460,1,0,"Android,Embedded,Hardware,Installation,Tutorial",59,2013-04-12
+4628,Raster Parallelization with OpenMP,en,2021-08-19,False,5425,0,1,,1,2021-08-19
+2469,Raster aggregate values,en,2010-08-26,False,1241,0,0,FAQ,3,2010-08-26
+2103,Raster color tables,en,2009-08-26,True,26,0,0,,1,2009-08-26
+3329,Rectification forward and backward error,en,2013-02-28,False,720,0,0,"FAQ,Image processing",1,2013-02-28
+1382,Region Map,en,2011-10-23,False,967,0,0,FAQ,7,2006-05-19
+1495,Release Roadmap,en,2022-05-13,False,6769,0,0,"Development,MoveToTrac,Release Roadmap",1,2022-05-13
+2447,Remote Sensing,en,2010-06-27,True,30,0,1,,2,2010-06-27
+1454,Replacement raster format,en,2010-04-24,False,32,0,0,MovedToTrac,14,2006-06-03
+1718,Requesting CVS write access,en,2008-02-06,True,41,0,0,,1,2008-02-06
+1625,Requesting SVN write access,en,2014-06-11,False,44,0,0,MovedToTrac,10,2007-06-02
+2872,Resampling,en,2011-10-04,True,27,0,1,,1,2011-10-04
+1630,Roadmap,en,2007-07-01,True,29,0,0,,1,2007-07-01
+2321,Rsun,en,2009-11-29,True,19,0,0,,1,2009-11-29
+1760,S-57 data,en,2014-12-15,False,10250,2,2,"Geodata,Import",52,2008-04-17
+4352,SENTINEL,en,2021-02-17,False,32544,1,0,"Documentation,Image processing,Pages using deprecated source tags,Sentinel,Tutorial",48,2017-07-22
+4437,SOD Spread tutorial,en,2020-09-07,False,17110,1,0,Pages using deprecated source tags,19,2018-04-23
+1485,SQL,en,2017-02-02,False,1512,0,3,FAQ,11,2006-07-04
+1524,SQL rename columns,en,2011-12-30,False,1222,0,1,FAQ,7,2006-10-03
+4296,SQLite backend vector maps,en,2017-04-03,False,2070,0,0,Vector,1,2017-04-03
+1926,SQLite unlock database,en,2015-04-23,False,529,0,0,"Database,FAQ,SQLite",4,2008-12-05
+2060,SRTM,en,2009-05-27,True,46,0,1,,1,2009-05-27
+2010,SVN,en,2009-04-02,True,30,0,1,,1,2009-04-02
+1665,SVN hosting,en,2019-02-07,False,3601,0,2,Development,23,2007-09-12
+1915,Sample datasets,en,2014-04-05,False,4547,0,1,"Geodata,MoveToTrac",12,2008-11-16
+1936,Sample datasets/id,en,2009-01-17,False,661,0,1,Languages/id,1,2009-01-17
+1476,Sandbox,en,2013-03-11,False,1142,1,0,"OutDated,Templates,Videos",50,2006-06-20
+1673,Screenshot suggestions,en,2013-11-09,False,10443,6,0,"Branding,Community,Promotion,Visualization",3,2012-06-04
+3017,Script portability,en,2013-04-03,False,1965,0,1,Linking to other languages,6,2012-05-04
+1696,Scripting,en,2013-12-09,False,2628,0,1,"Development,Linking to other languages,Python",17,2007-12-04
+2307,Scripts,en,2009-10-28,True,50,0,1,,1,2009-10-28
+1997,SeaWiFS,en,2010-09-06,False,1298,0,2,Geodata,6,2009-03-13
+1715,Search and Rescue,en,2011-12-30,False,4333,0,1,"Applications,Documentation",19,2008-02-05
+3141,SequentialGrid,en,2012-09-18,False,0,0,0,,4,2012-09-18
+3142,Sequential Grid,en,2012-09-19,True,53,0,0,,2,2012-09-18
+1621,Sharing a GRASS database,en,2017-04-03,False,2086,0,0,"Database,FAQ",3,2007-05-22
+3336,Shell scripting,en,2013-05-19,False,9559,0,0,"Bash,FAQ,Linking to other languages,Pages using deprecated enclose attributes,Pages using deprecated source tags,Scripting",6,2013-03-20
+4126,Shell scripting/es,en,2016-07-27,False,10301,0,1,"Linking to other languages,Pages using deprecated enclose attributes,Pages using deprecated source tags,Scripting",1,2016-07-27
+3235,Slow attribute management,en,2012-11-28,False,270,0,0,FAQ,1,2012-11-28
+2380,SoC,en,2010-03-02,True,29,0,0,,1,2010-03-02
+3116,Software requirements specification,en,2019-08-20,False,9512,2,0,"Development,FAQ,Hardware,Promotion",14,2012-08-10
+1782,Soil Science,en,2009-05-19,False,212,0,0,"Applications,Documentation",2,2008-05-20
+2165,Spam,en,2010-05-07,False,737,0,0,FAQ,7,2009-09-24
+3588,SpatiaLite,en,2017-02-02,False,2411,0,0,FAQ,5,2014-05-18
+2039,Spatial SQL,en,2014-05-19,False,6924,0,1,"Documentation,Pages using deprecated source tags,ToModify",5,2009-05-08
+4500,Sponsors,en,2023-05-09,False,6193,0,1,,61,2019-03-25
+1395,Sqlite Drop Column,en,2011-12-30,False,1267,0,0,FAQ,9,2006-05-19
+4110,Sqlite malformed database,en,2016-07-02,False,703,0,0,FAQ,2,2016-06-30
+1379,Starting GRASS,en,2013-08-02,False,1638,0,0,"Documentation,FAQ,Installation",7,2006-05-19
+1737,Stereo anaglyphs,en,2013-07-07,False,4274,5,2,"Image processing,NVIZ,Visualization",26,2008-03-03
+2474,Stereoscopic analysis,en,2020-08-09,False,2661,5,2,"FAQ,Image processing,NVIZ,Visualization",34,2010-09-15
+2067,Streams extraction from streams map,en,2009-06-05,False,1448,0,0,FAQ,1,2009-06-05
+4633,Student Grants,en,2022-09-17,False,3257,0,2,"Community,Development,Student Grants",21,2021-11-12
+4639,Student Grants/2021,en,2022-08-27,False,243,0,2,"Development,Student Grants",2,2022-08-27
+4640,Student Grants/2021/GUI single window layout,en,2022-08-27,False,153,0,0,"Community,Development,Student Grants",3,2022-08-27
+4638,Student Grants/2021/Interactive grass.jupyter,en,2022-08-27,False,155,0,0,"Community,Development,Student Grants",2,2022-08-27
+4642,Student Grants/2022,en,2022-08-28,False,544,0,0,"Community,Development,Student Grants",4,2022-08-27
+4442,Supercomputing,en,2018-05-29,False,3019,0,1,,6,2018-05-23
+2953,Support,en,2018-07-14,False,3248,0,1,"Development,FAQ",30,2012-02-29
+1386,Switch Locations,en,2013-02-05,False,744,0,1,"FAQ,OutDated",5,2006-05-19
+2098,Symb-fish,en,2013-02-05,False,1930,1,1,,3,2009-08-24
+4354,TGRASS workshop at FOSS4G Europe Paris 2017,en,2018-03-20,False,313,0,0,,2,2017-07-22
+1909,TIN,en,2008-11-02,True,27,0,1,,2,2008-11-02
+3005,TIN with breaklines,en,2013-04-06,False,3512,1,2,,11,2012-04-21
+3106,Team,en,2021-11-20,False,10254,10,0,,34,2012-07-16
+1571,Technical Data sheet,en,2018-09-02,False,1713,0,0,Promotion,15,2007-01-21
+3605,Temporal data processing,en,2022-12-20,False,48187,0,0,"Documentation,Pages using deprecated source tags,Temporal,Tutorial",34,2016-10-09
+4156,Temporal data processing/GRASS R raster time series processing,en,2022-10-22,False,11679,0,0,Tutorial,26,2016-09-09
+4384,Temporal data processing/GRASS R raster time series processing/es,en,2017-08-25,False,12436,0,0,"Documentation,Languages/es,Pages using deprecated source tags,R,Temporal,Tutorial",1,2017-08-25
+3848,Temporal data processing/maps registration,en,2020-12-29,False,8285,0,0,Pages using deprecated source tags,10,2015-10-23
+4161,Temporal data processing/raster time series grass R statistics,en,2016-09-12,True,76,0,1,,1,2016-09-12
+3822,Temporal data processing/seasonal aggregation,en,2015-11-16,False,11193,0,0,"Documentation,Pages using deprecated source tags,Temporal",6,2015-08-25
+2803,Temporal extension for GRASS GIS 7,en,2015-02-01,False,6609,0,0,MovedToTrac,12,2011-06-29
+3811,Terminology comparison between ArcGIS and GRASS GIS,en,2016-09-08,False,7622,0,2,"Raster,Vector",12,2015-08-08
+4118,Terminology comparison between ArcGIS and GRASS GIS/es,en,2016-07-22,False,8160,0,5,"ArcGIS,Documentation,FAQ,Import,Languages/es,Raster,Vector",1,2016-07-22
+4024,Terrain Analysis with Geomorphons,en,2016-03-21,True,70,0,1,,1,2016-03-21
+4657,Terrain analysis,en,2023-02-21,False,6170,0,3,"Applications,Terrain",1,2023-02-21
+2777,Test Suite,en,2014-12-27,False,27446,0,0,Testing,40,2011-05-22
+1519,Testing GRASS software,en,2007-03-08,False,3317,0,0,"Development,Release Roadmap",4,2006-09-19
+1911,Time series,en,2014-08-26,False,2811,0,0,"FAQ,Image processing,Pages using deprecated source tags,Temporal",16,2008-11-09
+1518,Time series development,en,2016-01-28,False,11990,0,0,"Development,Historic",49,2006-09-18
+1910,Time series in GRASS,en,2008-11-09,True,37,0,0,,1,2008-11-09
+1403,Tips and Tricks,en,2013-05-10,False,6583,0,0,Documentation,50,2006-05-19
+1472,Tips for ArcInfo users,en,2006-06-19,True,32,0,0,,1,2006-06-19
+1465,Tips for Arc users,en,2016-07-22,False,6998,0,0,"ArcGIS,Documentation,FAQ,Hydrology,Import,Vector",68,2006-06-15
+4115,Tips for Arc users/es,en,2016-07-22,False,6734,0,4,"Hydrology,Import,Languages/es,Vector",7,2016-07-22
+2420,Toolboxes,en,2020-11-13,False,22776,0,2,"Development,GRASS 7",11,2012-05-28
+3310,Tools for Python programming,en,2020-03-25,False,5662,6,1,"Development,Linking to other languages,Python",30,2013-02-07
+2925,Topo Issue,en,2011-12-07,True,29,0,1,,1,2011-12-07
+3335,Topology,en,2013-03-14,True,31,0,0,Topology,1,2013-03-14
+1568,Trace vector contours from a scanned map,en,2011-12-07,False,4767,0,0,"Documentation,FAQ,Vector",28,2006-12-12
+4491,Tracking,en,2019-02-07,True,26,0,1,,1,2019-02-07
+1628,Traducao,en,2013-02-05,False,955,0,0,OutDated,9,2007-06-21
+3781,Transform CCW aspect to azimuth,en,2015-07-09,False,179,0,0,FAQ,1,2015-07-09
+2354,Translations,en,2010-02-10,True,40,0,0,,1,2010-02-10
+1764,Triangle Mesh,en,2013-12-31,False,5066,0,0,"FAQ,HowTo,Vector",24,2008-04-22
+2591,Triangulation,en,2010-12-11,True,27,0,0,,1,2010-12-11
+3389,Turns in the vector network analysis,en,2020-06-09,False,5430,5,0,Vector,42,2013-05-28
+3390,Turntable,en,2013-05-29,True,50,0,0,,1,2013-05-29
+2693,"U.S. NOAA/National Weather Service GRASS GIS Workshop - Ohio River Forecast Center, Wilmington, OH, May 16-20, 2011",en,2011-02-11,False,4292,0,0,Workshops,16,2011-02-09
+3893,US-IALE 2016 Annual Meeting: GRASS related workshops and presentations,en,2017-02-27,False,5503,2,0,"2016,Conferences,Workshops",8,2016-01-20
+3353,Ubuntu Packaging,en,2014-12-26,False,8193,0,0,"Debian,Installation,Ubuntu,Voluteers",40,2013-04-12
+4278,Unleash the power of GRASS GIS at US-IALE 2017,en,2020-09-14,False,40690,3,0,Workshops,51,2017-03-23
+4323,Unleash the power of GRASS GIS at US-IALE 2017/es,en,2017-08-03,False,46037,0,2,"2017,Languages/es,Pages using deprecated source tags,Python,R,Scripting,Tutorial,Workshops",3,2017-06-22
+1538,Updating Documentation,en,2008-09-05,True,42,0,0,,2,2006-10-25
+1537,Updating GRASS Documentation,en,2018-10-06,False,17262,0,0,"Development,Historic",65,2006-10-25
+1539,Updating Grass Documentation,en,2006-10-27,True,42,0,0,,1,2006-10-27
+2399,Upgrading GRASS database,en,2021-06-24,False,2472,0,0,"Database,FAQ",10,2010-03-31
+1723,Usability,en,2015-03-04,False,5922,0,3,"Development,GUI,MoveToTrac",24,2008-02-13
+2391,Use GRASS commercially,en,2010-03-14,False,369,0,0,FAQ,1,2010-03-14
+3146,Use cases,en,2012-09-30,True,26,0,1,,1,2012-09-30
+3825,Using Eclipse 4.5 (Mars) on Windows 7,en,2016-02-20,False,18396,0,1,"Development,Documentation",79,2015-08-27
+2043,Using Eclipse to develop GRASS Python programs,en,2015-08-31,False,10018,0,2,"Development,Documentation,FAQ,Linking to other languages,Python",17,2009-05-11
+4040,Using GRASS GIS through Python and tangible interfaces (workshop at FOSS4G NA 2016),en,2021-02-02,False,34104,8,2,"2016,Pages using deprecated source tags,Python,Tutorial,Workshops",96,2016-04-19
+3035,Using QtCreator for GRASS C development,en,2017-05-23,False,5169,0,4,Development,19,2012-05-24
+2081,V.autokrige GSoC 2009,en,2009-07-07,True,31,0,1,,1,2009-07-07
+1965,V.generalize tutorial,en,2018-12-04,False,18357,8,0,"Documentation,Tutorial,Vector",43,2009-02-22
+2064,V.generalize tutorial/id,en,2011-12-04,False,18337,0,1,"Documentation,Languages/id,Pages with broken file links,Translating into Bahasa Indonesia,Tutorial",2,2009-05-31
+2033,V.krige GSoC 2009,en,2015-09-30,False,7096,0,1,"Community,Development,GSoC,R",66,2009-05-01
+3899,Vagrant,en,2016-02-16,False,2747,0,0,,32,2016-02-07
+1394,Vector Attribute Display,en,2014-03-05,False,521,0,0,"FAQ,Vector",5,2006-05-19
+1377,Vector Buffer,en,2016-07-22,False,259,0,0,"FAQ,Vector",6,2006-05-19
+4124,Vector Buffer/es,en,2016-07-22,False,324,0,0,"FAQ,Languages/es,Vector",2,2016-07-22
+1645,Vector Data,en,2012-09-02,False,10379,2,0,"Documentation,FAQ,Vector",11,2007-07-30
+4114,Vector Data/es,en,2016-07-21,False,10652,2,4,"Documentation,FAQ,Vector",1,2016-07-21
+1425,Vector Database Management,en,2019-06-15,False,10584,1,0,"Database,Documentation,Vector",40,2006-05-19
+1396,Vector FAQ GRASS6,en,2018-12-04,False,4451,0,0,"FAQ,Vector",12,2006-05-19
+1576,Vector Faq GRASS57,en,2007-02-06,True,31,0,0,,1,2007-02-06
+1747,Vector Find Line Intersections,en,2011-12-07,False,226,0,0,Vector,2,2008-03-21
+1806,Vector Overlapping Areas,en,2018-12-04,False,1816,0,0,"FAQ,Topology,Vector",11,2008-06-24
+3069,Vector add multiple vertices,en,2012-06-19,False,243,0,0,"FAQ,Vector",1,2012-06-19
+1393,Vector aggregate values,en,2013-08-02,False,13452,0,0,"FAQ,Pages using deprecated source tags,Statistics,Vector",20,2006-05-19
+4170,Vector break line intersections,en,2016-10-03,False,1016,0,0,Vector,1,2016-10-03
+3600,Vector data model,en,2014-07-18,True,40,0,1,,1,2014-07-18
+2028,Vector export of spatial subset,en,2011-12-07,False,495,0,0,"FAQ,Vector",2,2009-04-22
+3642,Vector extract upstream network,en,2014-11-05,False,727,0,0,"FAQ,Hydrology,Vector",1,2014-11-05
+2592,Vector length of common boundaries,en,2020-11-16,False,2066,0,0,"FAQ,Vector",5,2010-12-14
+1921,Vector map attribute transfer between connected tables,en,2015-04-23,False,1090,0,0,"Database,FAQ,Vector",6,2008-11-27
+1583,Vector network analysis,en,2019-02-28,False,4942,6,0,"Documentation,FAQ,Network Analysis,Vector",46,2007-02-21
+3134,Vector network analysis/pl,en,2018-12-04,False,4877,4,4,"Network Analysis,Vector",9,2012-09-10
+1666,Vector network analysis ideas,en,2014-01-29,False,1447,0,0,Vector,6,2007-09-14
+3647,Vector patching,en,2014-12-22,False,1865,0,1,"FAQ,Topology,Vector",2,2014-11-20
+3641,Vector remove small lines,en,2014-11-05,False,1641,0,0,"FAQ,Vector",5,2014-11-04
+1392,Vector topology,en,2022-08-27,False,3917,0,0,"FAQ,Topology,Vector",12,2006-05-19
+4119,Vector topology/es,en,2016-07-22,False,4258,0,3,"FAQ,Languages/es,Topology,Vector",1,2016-07-22
+2624,Vector topology cleaning,en,2020-04-05,False,6363,3,1,"FAQ,Topology,Vector",25,2011-01-19
+2478,Vectordata,en,2010-09-23,True,25,0,0,,1,2010-09-23
+2965,Voxel,en,2022-04-21,False,4272,5,3,"Documentation,Visualization,Voxel",11,2012-03-31
+1752,WARNING wish command does not work as expected,en,2008-04-07,False,267,0,0,FAQ,1,2008-04-07
+3534,WCS,en,2018-12-04,False,2044,0,0,Raster,4,2014-01-04
+2427,WMS,en,2018-12-04,False,3145,2,0,"Raster,Templates,Videos",37,2010-05-21
+2034,WPS,en,2015-10-07,False,9479,0,0,"Development,Linking to other languages,OGC,Pages using deprecated source tags",31,2009-05-02
+2635,WPS/pl,en,2011-01-30,False,16512,0,2,"Pages using deprecated source tags,Translating into Polish",4,2011-01-30
+2791,WXGUI WMS service rendering GSoC 2011,en,2011-06-01,True,51,0,1,,1,2011-06-01
+2937,WebGRASS,en,2012-01-26,False,889,0,0,"Templates,ToModify,Videos",5,2012-01-26
+2452,Web site,en,2020-07-23,False,8720,0,0,"Historic,Website",85,2010-07-04
+4420,Website migration plan 2019,en,2020-03-27,False,6721,0,0,Website,21,2018-03-22
+2767,Widget:YouTube,en,2011-05-07,False,1151,0,0,,21,2018-03-22
+2057,Wiki Tutorials,en,2009-05-25,True,32,0,0,Tutorial,1,2009-05-25
+1751,Wildlife Zoology,en,2011-12-15,False,1806,0,0,"Applications,Documentation",6,2008-04-06
+1690,WinGRASS,en,2007-11-19,True,37,0,0,,1,2007-11-19
+1517,WinGRASS 6 Current Status,en,2014-08-19,False,12551,3,0,"Development,WinGRASS",85,2008-06-21
+3616,WinGRASS 7 Current Status,en,2014-08-19,False,2585,0,1,"Development,WinGRASS",1,2014-08-19
+3614,WinGRASS Current Status,en,2014-08-19,False,581,0,0,"Development,WinGRASS",2,2014-08-19
+1401,WinGRASS Installation,en,2012-03-17,False,842,3,0,"FAQ,WinGRASS",15,2006-05-19
+2960,WinGRASS errors,en,2019-11-15,False,12316,0,0,"FAQ,WinGRASS",61,2012-03-17
+2095,Windows,en,2009-08-21,True,37,0,0,,1,2009-08-21
+1896,Working with CVS,en,2008-10-11,True,30,0,0,,1,2008-10-11
+2401,Working with GRASS without starting it explicitly,en,2022-07-22,False,26119,0,0,Scripting,82,2010-04-07
+1564,Working with SVN,en,2013-02-09,False,9988,0,0,"Development,MoveToTrac",49,2006-12-07
+2599,Working with external data in GRASS 7,en,2018-05-08,False,9325,6,0,"FAQ,GRASS 7,Pages using deprecated source tags,Templates,Vector,Videos",6,2012-11-29
+1706,Working with many rasters,en,2008-01-09,False,2520,0,0,FAQ,3,2008-01-09
+3960,Workshop on urban growth modeling with FUTURES,en,2020-01-23,False,51147,1,6,"FUTURES,Pages using deprecated source tags,Tutorial,Urban",33,2016-03-30
+3460,WorldView,en,2020-04-08,False,18999,0,2,"Documentation,FAQ,High Resolution,Image processing,Import,Pages using deprecated enclose attributes,Pages using deprecated source tags,Radiance,Reflectance,WorldView",23,2013-08-04
+2771,Wx.stream GSoC 2011,en,2013-01-26,False,10156,6,0,"Community,Development,GSoC,Hydrology,WxGUI",48,2011-05-21
+2784,Wx.stream gsoc2011,en,2011-05-23,True,33,0,0,,1,2011-05-23
+1667,WxGRASS,en,2007-09-16,True,42,0,0,,1,2007-09-16
+1762,WxGUI,en,2008-04-22,True,42,0,0,,1,2008-04-22
+3203,WxGUI/Cartographic Composer,en,2012-11-05,True,41,0,1,,1,2012-11-05
+3205,WxGUI/Graphical Modeler,en,2012-11-05,True,37,0,1,,1,2012-11-05
+3206,WxGUI/Map Swipe,en,2012-11-05,True,29,0,1,,1,2012-11-05
+3207,WxGUI/Vector Digitizer,en,2012-11-05,True,36,0,1,,1,2012-11-05
+3167,WxGUI/Video tutorials,en,2013-01-24,False,1994,4,0,"Templates,Videos,WxGUI",8,2012-10-16
+3204,WxGUI/WxIClass,en,2012-11-05,True,22,0,1,,1,2012-11-05
+3187,WxGUI / Graphical Modeler,en,2012-10-19,True,37,0,1,,1,2012-10-19
+3188,WxGUI / Map Swipe,en,2012-10-19,True,29,0,1,,1,2012-10-19
+3185,WxGUI / Vector Digitizer,en,2012-10-19,True,36,0,1,,1,2012-10-19
+3184,WxGUI / Video tutorials,en,2012-10-19,True,35,0,1,,1,2012-10-19
+3337,WxGUI Animation Tool,en,2018-12-04,False,1726,0,0,"Templates,Temporal,Videos,WxGUI",11,2013-03-22
+3244,WxGUI Attribute Table Manager,en,2012-12-09,False,969,0,1,"Templates,Videos,WxGUI",17,2012-12-09
+2613,WxGUI Cartographic Composer,en,2015-12-15,False,4744,0,0,"Ps.map,Templates,Videos,WxGUI",97,2011-01-09
+2410,WxGUI Graphical Modeler,en,2018-12-04,False,4452,10,0,"Templates,Videos,WxGUI",1,2018-12-04
+2840,WxGUI Hardcopy Map Output Utility,en,2011-09-16,True,41,0,1,,1,2011-09-16
+3480,WxGUI Interactive Scatter Plot Tool,en,2018-12-04,False,2188,0,3,"Templates,Videos,WxGUI",9,2013-09-23
+3118,WxGUI Map Swipe,en,2018-12-04,False,4064,0,0,"Pages using deprecated source tags,Templates,Videos,WxGUI",29,2012-08-12
+3160,WxGUI Modeler,en,2012-11-09,True,37,0,0,,2,2012-10-13
+2438,WxGUI Modeler/cs,en,2013-04-06,False,2294,1,0,WxGUI,8,2010-05-29
+2411,WxGUI Modeler/pl,en,2010-10-19,False,2265,9,0,"Languages/pl,WxGUI",11,2010-04-14
+3297,WxGUI Programming Howto,en,2015-03-04,False,10615,0,2,"Development,Linking to other languages,Python",14,2013-02-02
+3166,WxGUI Screenshots,en,2012-11-30,False,1163,0,1,WxGUI,10,2012-10-16
+2928,WxGUI Supervised Classification Tool,en,2018-12-04,False,1720,0,0,"Image processing,Templates,Videos,WxGUI",23,2011-12-18
+2640,WxGUI Vector Digitizer,en,2014-03-05,False,11257,0,0,"Documentation,Templates,Vector,Videos,WxGUI",85,2011-02-03
+3124,WxGUI Vector Network Analysis Tool,en,2018-12-04,False,1768,0,0,"Network Analysis,Templates,Videos,WxGUI",22,2012-08-17
+2779,WxGUI WMS service rendering GSoC 2011,en,2012-04-18,False,10036,0,0,"GSoC,WxGUI",63,2011-05-23
+3339,WxIClass,en,2013-03-22,True,50,0,0,,1,2013-03-22
+1994,WxNVIZ,en,2009-03-08,True,20,0,0,,1,2009-03-08
+1765,WxNviz,en,2018-12-04,False,7858,0,0,"NVIZ,Templates,Videos,Visualization,WxGUI",21,2011-08-19
+4130,WxNviz/es,en,2018-12-04,False,8500,0,5,"Languages/es,NVIZ,Templates,Videos,Visualization,WxGUI",3,2016-07-28
+2433,WxNviz/pl,en,2016-08-23,False,8066,0,0,"Templates,Translating into Polish,Videos,Visualization,WxGUI",4,2010-05-24
+2431,WxNviz GSoC 2008,en,2011-05-28,False,5888,0,0,"Community,Development,GSoC,WxGUI",10,2010-05-23
+2432,WxNviz GSoC 2010,en,2011-05-28,False,11983,0,0,"Community,Development,GSoC,WxGUI",94,2010-05-23
+2788,WxNviz GSoC 2011,en,2011-09-26,False,10219,0,0,"Community,Development,GSoC,WxGUI",58,2011-05-24
+1638,WxPython-based GUI for GRASS,en,2021-04-14,False,25293,10,0,"Documentation,Pages using deprecated source tags,Templates,Videos,WxGUI",60,2012-10-16
+3695,XVI Meeting degli Utenti Italiani di GRASS GFOSS,en,2015-02-24,False,3653,0,1,Workshops,25,2015-02-02
+3698,XVI Meeting degli Utenti Italiani di GRASS GFOSS/Activities,en,2015-02-18,False,1291,0,2,Workshops,6,2015-02-02
+3697,XVI Meeting degli Utenti Italiani di GRASS GFOSS/Talk,en,2015-02-26,False,2716,3,4,,22,2015-02-02
+3696,XVI Meeting degli Utenti Italiani di GRASS GFOSS/Who,en,2015-02-18,False,2290,0,0,,18,2015-02-02
+3699,XVI Meeting degli Utenti Italiani di GRASS GFOSS/it,en,2015-02-24,False,3983,4,4,,27,2015-02-02
+2954,Zonal statistics,en,2017-04-05,False,1916,1,0,"FAQ,Vector",7,2012-03-04
